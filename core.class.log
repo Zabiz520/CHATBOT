@@ -1,0 +1,140 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51981471327@s.whatsapp.net',
+    fromMe: false,
+    id: 'B9021D37F9BA81AF410000F834522C9B',
+    participant: undefined
+  },
+  messageTimestamp: 1756435054,
+  pushName: 'Ahhh joako',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '51981471327'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b56be0c1-0f2d-49b2-974c-1faa456cfabe',
+  keyword: 'key_a0c3d9ae-8301-4592-bd28-b1af635dd20e',
+  answer: '¡Hola! 😊 Soy tu asistente virtual. ¿Me puedes decir tu nombre?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f9d800762929511abd055fc380794b43'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51981471327@s.whatsapp.net',
+    fromMe: false,
+    id: '5B8FF79D95F3C9F0456A150F6B9EA3B5',
+    participant: undefined
+  },
+  messageTimestamp: 1756435054,
+  pushName: 'Ahhh joako',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '51981471327'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51981471327@s.whatsapp.net',
+    fromMe: false,
+    id: '6F114E6B86FF5C7E6E08261A0CB2B7AF',
+    participant: undefined
+  },
+  messageTimestamp: 1756435058,
+  pushName: 'Ahhh joako',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Joaquin',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Joaquin',
+  from: '51981471327'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec2d0fc8-c44a-4225-9731-673af78c6e8b',
+  keyword: 'ans_b56be0c1-0f2d-49b2-974c-1faa456cfabe',
+  answer: '¿Qué opción te gustaría elegir?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e7679582e2dc6927174075f398fba500'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51981471327@s.whatsapp.net',
+    fromMe: false,
+    id: '2DE4B456B8BEA93503CEB695D116153B',
+    participant: undefined
+  },
+  messageTimestamp: 1756435059,
+  pushName: 'Ahhh joako',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '51981471327'
+}

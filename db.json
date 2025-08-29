@@ -1,0 +1,82 @@
+[
+  {
+    "ref": "f33afb66-812a-4dd9-990d-81c8cb995263",
+    "keyword": "d60f30b3fe0eabf7f9df3939c3cc81a4",
+    "answer": "Hola",
+    "options": {},
+    "from": "51981471327",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_b56be0c1-0f2d-49b2-974c-1faa456cfabe",
+    "keyword": "key_a0c3d9ae-8301-4592-bd28-b1af635dd20e",
+    "answer": "¡Hola! 😊 Soy tu asistente virtual. ¿Me puedes decir tu nombre?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f9d800762929511abd055fc380794b43",
+    "from": "51981471327"
+  },
+  {
+    "ref": "9b3c1b0f-0c3a-47ca-bfc0-059cde86aa06",
+    "keyword": "f9d800762929511abd055fc380794b43",
+    "answer": "Joaquin",
+    "options": {},
+    "from": "51981471327",
+    "refSerialize": "926c2cb0a5984ac983cb2b098b8c12f0"
+  },
+  {
+    "ref": "c745aa4e-c0e0-48c8-896a-93fd2309141d",
+    "keyword": null,
+    "answer": "¡Gracias Joaquin! 😊",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "51981471327",
+    "refSerialize": "cb738894fc90a16c6db7dc82d3f94983"
+  },
+  {
+    "ref": "ans_ec2d0fc8-c44a-4225-9731-673af78c6e8b",
+    "keyword": "ans_b56be0c1-0f2d-49b2-974c-1faa456cfabe",
+    "answer": "¿Qué opción te gustaría elegir?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "e7679582e2dc6927174075f398fba500",
+    "from": "51981471327"
+  },
+  {
+    "ref": "47b3bce1-085f-431d-9aa8-17be0c18f6ae",
+    "keyword": null,
+    "answer": "*1.* metabolismo\r\n*2.* penes",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "51981471327",
+    "refSerialize": "4066f029cc6dab127d9c84074df59fac"
+  }
+]

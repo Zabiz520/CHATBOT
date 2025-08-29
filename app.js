@@ -1,66 +1,34 @@
-const { createBot, createProvider, createFlow, addKeyword } = require('@bot-whatsapp/bot')
+const { createBot, createProvider, createFlow, addKeyword, EVENTS } = require('@bot-whatsapp/bot')
 
 const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const JsonFileAdapter = require('@bot-whatsapp/database/json')
+const fs = require('fs')
+const path = require('path')
 
-const flowSecundario = addKeyword(['2', 'siguiente']).addAnswer(['📄 Aquí tenemos el flujo secundario'])
 
-const flowDocs = addKeyword(['doc', 'documentacion', 'documentación']).addAnswer(
-    [
-        '📄 Aquí encontras las documentación recuerda que puedes mejorarla',
-        'https://bot-whatsapp.netlify.app/',
-        '\n*2* Para siguiente paso.',
-    ],
-    null,
-    null,
-    [flowSecundario]
-)
 
-const flowTuto = addKeyword(['tutorial', 'tuto']).addAnswer(
-    [
-        '🙌 Aquí encontras un ejemplo rapido',
-        'https://bot-whatsapp.netlify.app/docs/example/',
-        '\n*2* Para siguiente paso.',
-    ],
-    null,
-    null,
-    [flowSecundario]
-)
 
-const flowGracias = addKeyword(['gracias', 'grac']).addAnswer(
-    [
-        '🚀 Puedes aportar tu granito de arena a este proyecto',
-        '[*opencollective*] https://opencollective.com/bot-whatsapp',
-        '[*buymeacoffee*] https://www.buymeacoffee.com/leifermendez',
-        '[*patreon*] https://www.patreon.com/leifermendez',
-        '\n*2* Para siguiente paso.',
-    ],
-    null,
-    null,
-    [flowSecundario]
-)
 
-const flowDiscord = addKeyword(['discord']).addAnswer(
-    ['🤪 Únete al discord', 'https://link.codigoencasa.com/DISCORD', '\n*2* Para siguiente paso.'],
-    null,
-    null,
-    [flowSecundario]
-)
 
-const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
-    .addAnswer('🙌 Hola bienvenido a este *Chatbot*')
-    .addAnswer(
-        [
-            'te comparto los siguientes links de interes sobre el proyecto',
-            '👉 *doc* para ver la documentación',
-            '👉 *gracias*  para ver la lista de videos',
-            '👉 *discord* unirte al discord',
-        ],
-        null,
-        null,
-        [flowDocs, flowGracias, flowTuto, flowDiscord]
-    )
+const flowPrincipal = addKeyword([EVENTS.WELCOME])
+    .addAnswer('¡Hola! 😊 Soy tu asistente virtual. ¿Me puedes decir tu nombre?', {
+        capture: true,
+    }, async (ctx, { flowDynamic, state, gotoFlow }) => {
+        await state.update({ name: ctx.body })
+        await flowDynamic('¡Gracias ' + ctx.body + '! 😊');
+    },)
+    .addAnswer('¿Qué opción te gustaría elegir?', null, async (_, { flowDynamic }) => {
+        const opcionesPath = path.join(__dirname, 'ARCHIVOS', 'OPCIONES1.txt')
+        let opciones = ''
+        try {
+            opciones = fs.readFileSync(opcionesPath, 'utf8')
+        } catch (e) {
+            opciones = 'No se encontraron opciones.'
+        }
+        await flowDynamic(opciones)
+    })
+
 
 const main = async () => {
     const adapterDB = new JsonFileAdapter()
