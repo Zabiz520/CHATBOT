@@ -1,5 +1,5 @@
 
-const { createBot, createProvider, createFlow, addKeyword, EVENTS } = require('@bot-whatsapp/bot')
+const { createBot, createProvider, createFlow, addKeyword, EVENTS} = require('@bot-whatsapp/bot')
 
 const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
@@ -53,24 +53,24 @@ const flowCarreras = addKeyword('3', { sensitive: true })
 
 const flowTramiteDocumentario = addKeyword("1", {sensitive:true})
     .addAnswer('Has seleccionado la opción 1: Trámite Documentario.')
-    .addAnswer(opcionesTramite, { capture: true }, async (ctx, { flowDynamic }) => {
+    .addAnswer(opcionesTramite, { capture: true }, async (ctx, { flowDynamic, fallBack }) => {
         const match = ctx.body.match(/\d+/);
         const opcion = match ? match[0] : null;
         if (!["1", "2", "3"].includes(opcion)) {
             await flowDynamic('Esta no es una de las opciones. Por favor, elige una opción válida:');
-            await flowDynamic(opcionesTramite);
+            return fallBack();
         }
     },[flowCarreras, flowContinua, flowIdiomas])
 
 // Flujo principal
 const flowPrincipal = addKeyword([EVENTS.WELCOME])
     .addAnswer('¡Hola! 😊 Soy tu asistente virtual.')
-    .addAnswer(opciones1, { capture: true }, async (ctx, { flowDynamic }) => {
+    .addAnswer(opciones1, { capture: true }, async (ctx, { flowDynamic, fallBack }) => {
         const match = ctx.body.match(/\d+/);
         const opcion = match ? match[0] : null;
         if (opcion !== '1') {
             await flowDynamic('Esta no es una de las opciones. Por favor, elige una opción válida:');
-            await flowDynamic(opciones1);
+            return fallBack();
         }
     }, flowTramiteDocumentario)
 

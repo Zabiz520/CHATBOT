@@ -2,15 +2,15 @@
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: '4A9E3B6180EF756B3ACE419E7E872C64',
+    id: '5D1969B67FCBBA9BF84632ABD303BD07',
     participant: undefined
   },
-  messageTimestamp: 1756573494,
+  messageTimestamp: 1756576442,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: 'Buenas tardes',
+      text: 'Hola',
       previewType: 0,
       contextInfo: [ContextInfo],
       inviteLinkGroupTypeV2: 0
@@ -21,12 +21,12 @@
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Buenas tardes',
+  body: 'Hola',
   from: '51981471327'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f',
-  keyword: 'key_f400752f-2cd9-4e89-b42d-233b5d8ddd98',
+  ref: 'ans_3434f50e-8f36-4d80-b279-b2a25acdfb4d',
+  keyword: 'key_8060fbc9-dd38-4a8d-80c0-a07f90ff695b',
   answer: '¡Hola! 😊 Soy tu asistente virtual.',
   options: {
     media: null,
@@ -40,11 +40,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '2dce7ad8da8cf4ca7ba1ae567c0368b3'
+  refSerialize: '5937e952a44734d0e78e74e706063155'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_15bec6fd-4292-4581-ad28-427d67e09102',
-  keyword: 'ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f',
+  ref: 'ans_9c2060ec-a132-4026-ab38-f80a13956d50',
+  keyword: 'ans_3434f50e-8f36-4d80-b279-b2a25acdfb4d',
   answer: '✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n' +
     '\r\n' +
     '1️⃣ *Tramite Documentario*\r\n' +
@@ -62,16 +62,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '21a6155b006026a6229748c14186bca3'
+  refSerialize: '3bdfb18e640a807be75945b1c6015905'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: '142AB982EE6330D02852CD07D3D2383B',
+    id: '351175D5DECC5D157651855B03C08D7E',
     participant: undefined
   },
-  messageTimestamp: 1756573495,
+  messageTimestamp: 1756576444,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
@@ -94,15 +94,15 @@
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: 'C9FEC761B9F4DFDE49CEDB3B2C3F1DDB',
+    id: 'C8EBD85EEB8EA669D062ECD2A89E6D10',
     participant: undefined
   },
-  messageTimestamp: 1756573519,
+  messageTimestamp: 1756576445,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: '2',
+      text: 'Pene',
       previewType: 0,
       contextInfo: [ContextInfo],
       inviteLinkGroupTypeV2: 0
@@ -113,17 +113,17 @@
       messageSecret: [Uint8Array]
     }
   },
-  body: '2',
+  body: 'Pene',
   from: '51981471327'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: '2E31B0D5F101BE3EC869ACFA1B4D0F07',
+    id: 'AAF1F811B221514EC57EB16DDA13DCEB',
     participant: undefined
   },
-  messageTimestamp: 1756573519,
+  messageTimestamp: 1756576446,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
@@ -146,15 +146,15 @@
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: '3B7FE5382F9C16DCBB474753EE526AE8',
+    id: '09021DB67D8615CEDC0F6DEE9DA16CCB',
     participant: undefined
   },
-  messageTimestamp: 1756573547,
+  messageTimestamp: 1756576449,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: 'Hola buenas la opcion 1',
+      text: 'Pene',
       previewType: 0,
       contextInfo: [ContextInfo],
       inviteLinkGroupTypeV2: 0
@@ -165,57 +165,17 @@
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Hola buenas la opcion 1',
+  body: 'Pene',
   from: '51981471327'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f',
-  keyword: 'key_f400752f-2cd9-4e89-b42d-233b5d8ddd98',
-  answer: '¡Hola! 😊 Soy tu asistente virtual.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '2dce7ad8da8cf4ca7ba1ae567c0368b3'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_15bec6fd-4292-4581-ad28-427d67e09102',
-  keyword: 'ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f',
-  answer: '✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n' +
-    '\r\n' +
-    '1️⃣ *Tramite Documentario*\r\n' +
-    '\r\n' +
-    'Por favor, responde con el número de la opción que deseas explorar. 😊',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [ [Object], [Object], [Object] ],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '21a6155b006026a6229748c14186bca3'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: '83367228F6DE5978A47651452179D1AE',
+    id: '105898EC8ACB465C37212BA5BC9EB7B2',
     participant: undefined
   },
-  messageTimestamp: 1756573548,
+  messageTimestamp: 1756576450,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
@@ -238,15 +198,15 @@
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: '6EC1C2A18701D54EFD788C4F146B453C',
+    id: '87702C38480497A1D509EFD030556392',
     participant: undefined
   },
-  messageTimestamp: 1756573552,
+  messageTimestamp: 1756576458,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: 'Hola 1',
+      text: '1',
       previewType: 0,
       contextInfo: [ContextInfo],
       inviteLinkGroupTypeV2: 0
@@ -257,12 +217,12 @@
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Hola 1',
+  body: '1',
   from: '51981471327'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8',
-  keyword: 'key_fa937590-66ba-44ce-b47a-e0d501d220f7',
+  ref: 'ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0',
+  keyword: 'key_30c278b2-89bb-4dcd-9c2d-e8a138fd4ff6',
   answer: 'Has seleccionado la opción 1: Trámite Documentario.',
   options: {
     media: null,
@@ -276,11 +236,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'ae8d48e65afc27fa2d68e7b812669d98'
+  refSerialize: 'f51159b90589ef381f396e1131a76f34'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_e3319209-ee68-40a3-8494-7798069701b7',
-  keyword: 'ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8',
+  ref: 'ans_4edb972d-13fe-40ee-9bfb-4dec26b1d855',
+  keyword: 'ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0',
   answer: 'Las oficinas que trabajan con trámite documentario son:\r\n' +
     '\r\n' +
     '1️⃣ Formación Continua  \r\n' +
@@ -307,16 +267,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'b9784a58ee5b80acf693d114e1b9fac1'
+  refSerialize: 'c0f35c6535b8923a12206a0e0b498678'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: 'AE7A54DC775BDC0FC6BF71840BBF9E96',
+    id: 'B7CF7DA5AEB746357964D0C2104DF5DB',
     participant: undefined
   },
-  messageTimestamp: 1756573553,
+  messageTimestamp: 1756576459,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
@@ -339,619 +299,10 @@
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: '158DDBFF914DE16A1267868888DB6BA4',
+    id: '2756C15921A96C6B7FC6018B013978E1',
     participant: undefined
   },
-  messageTimestamp: 1756573564,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: '2',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '2',
-  from: '51981471327'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9',
-  keyword: 'key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873',
-  answer: 'Has seleccionado Centro de Idiomas.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a0367fadd5f00eac0f5045ff4aa6f87c'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_9e0f732c-5c75-4f95-8332-51fb9259d94b',
-  keyword: 'ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9',
-  answer: 'AQUI VA E PDF DE IDIOMAS',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '40a0dfcb01f57678fe9d9ea579e7a342'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_75fb2d28-7ff5-4973-8b54-ce5ad4db26fc',
-  keyword: 'ans_9e0f732c-5c75-4f95-8332-51fb9259d94b',
-  answer: '📄 *Recuerda:*\n' +
-    '*Todo trámite interno se inicia con la presentación del formato "Solicitud" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n' +
-    '*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '833d9436db9fa8b1f47bc0ad83ca947f'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: 'A44B981CBA5C24B56DED8B6EF19DFEFF',
-    participant: undefined
-  },
-  messageTimestamp: 1756573567,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage {
-      key: [MessageKey],
-      type: 4,
-      ephemeralExpiration: 86400,
-      ephemeralSettingTimestamp: [Long],
-      disappearingMode: [DisappearingMode]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB03502591B93B7A42D74',
-    participant: undefined
-  },
-  messageTimestamp: 1756575420,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    documentMessage: DocumentMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.7119-24/542070469_1289997492822213_6154674922473774809_n.enc?ccb=11-4&oh=01_Q5Aa2QEbYb7pd8pE06zk_thgqguAnsn5K9_chiT7WUV5-d3IFQ&oe=68DA9D48&_nc_sid=5e03e0&mms3=true',
-      mimetype: 'application/pdf',
-      title: 'DNI.pdf',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      pageCount: 1,
-      mediaKey: [Uint8Array],
-      fileName: 'DNI.pdf',
-      fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7119-24/542070469_1289997492822213_6154674922473774809_n.enc?ccb=11-4&oh=01_Q5Aa2QEbYb7pd8pE06zk_thgqguAnsn5K9_chiT7WUV5-d3IFQ&oe=68DA9D48&_nc_sid=5e03e0',
-      mediaKeyTimestamp: [Long],
-      contactVcard: false,
-      thumbnailDirectPath: '/v/t62.36145-24/541564677_1826614071626895_3574299813235819650_n.enc?ccb=11-4&oh=01_Q5Aa2QFFDZdluTKNyVmwfXGbEUFrYCONhXHCoVjOYjKEheIpwg&oe=68DAAECC&_nc_sid=5e03e0',
-      thumbnailSha256: [Uint8Array],
-      thumbnailEncSha256: [Uint8Array],
-      jpegThumbnail: [Uint8Array],
-      contextInfo: [ContextInfo],
-      thumbnailHeight: 52,
-      thumbnailWidth: 36
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '_event_document__793e3422-c74d-42ce-a556-aaa698735776',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB04D62BBD708507A9CD5',
-    participant: undefined
-  },
-  messageTimestamp: 1756575420,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    documentMessage: DocumentMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.7119-24/540524252_758725216777044_2533650106479318467_n.enc?ccb=11-4&oh=01_Q5Aa2QERWSgoW7LBUdu62G3L01WuNW1g4PTGkg1hZgxJF5m8vQ&oe=68DAB7C0&_nc_sid=5e03e0&mms3=true',
-      mimetype: 'application/pdf',
-      title: 'PEA.pdf',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      pageCount: 2,
-      mediaKey: [Uint8Array],
-      fileName: 'PEA.pdf',
-      fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7119-24/540524252_758725216777044_2533650106479318467_n.enc?ccb=11-4&oh=01_Q5Aa2QERWSgoW7LBUdu62G3L01WuNW1g4PTGkg1hZgxJF5m8vQ&oe=68DAB7C0&_nc_sid=5e03e0',
-      mediaKeyTimestamp: [Long],
-      contactVcard: false,
-      thumbnailDirectPath: '/v/t62.36145-24/541938701_773802105348958_7099700156510915589_n.enc?ccb=11-4&oh=01_Q5Aa2QG4uIetqzwx8afZTaT0Z22fcuQuPvu2cHyG79SK4nhvIw&oe=68DAAA2C&_nc_sid=5e03e0',
-      thumbnailSha256: [Uint8Array],
-      thumbnailEncSha256: [Uint8Array],
-      jpegThumbnail: [Uint8Array],
-      contextInfo: [ContextInfo],
-      thumbnailHeight: 26,
-      thumbnailWidth: 18
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '_event_document__e098723d-86f9-4d5c-a52c-163fa60f505a',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB001B03CB4C9BC0A0FE6',
-    participant: undefined
-  },
-  messageTimestamp: 1756575420,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    documentMessage: DocumentMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.7119-24/540262388_777637924642156_900343415524805850_n.enc?ccb=11-4&oh=01_Q5Aa2QHKbKw4D8ENESq9s4fE89ekpcOJsbH7_ql8xbQT4ohlcg&oe=68DAAB4B&_nc_sid=5e03e0&mms3=true',
-      mimetype: 'application/pdf',
-      title: 'FORMATO DE SOLICITUD AVL.pdf',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      pageCount: 3,
-      mediaKey: [Uint8Array],
-      fileName: 'FORMATO DE SOLICITUD AVL.pdf',
-      fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7119-24/540262388_777637924642156_900343415524805850_n.enc?ccb=11-4&oh=01_Q5Aa2QHKbKw4D8ENESq9s4fE89ekpcOJsbH7_ql8xbQT4ohlcg&oe=68DAAB4B&_nc_sid=5e03e0',
-      mediaKeyTimestamp: [Long],
-      contactVcard: false,
-      thumbnailDirectPath: '/v/t62.36145-24/541739280_1440469640523272_8812963602618961044_n.enc?ccb=11-4&oh=01_Q5Aa2QGD8HUp9ltecZt0wcUNc_5TocIitEiZQhjG1rzC-jSx8w&oe=68DAB609&_nc_sid=5e03e0',
-      thumbnailSha256: [Uint8Array],
-      thumbnailEncSha256: [Uint8Array],
-      jpegThumbnail: [Uint8Array],
-      contextInfo: [ContextInfo],
-      thumbnailHeight: 26,
-      thumbnailWidth: 18
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '_event_document__3e1c7ca6-2bb9-47b8-b2c0-8491a2b9bf28',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0F5F830B2F8C480BFCA',
-    participant: undefined
-  },
-  messageTimestamp: 1756575420,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    documentMessage: DocumentMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.7119-24/541533597_1267144048526031_3316778732221912512_n.enc?ccb=11-4&oh=01_Q5Aa2QFSOV1z8sF684QqPXGtBV8BJP6ZbcL1D_QllM8sO1maHg&oe=68DA931E&_nc_sid=5e03e0&mms3=true',
-      mimetype: 'application/pdf',
-      title: 'DATOS GENERALES EMPRESA.pdf',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      pageCount: 1,
-      mediaKey: [Uint8Array],
-      fileName: 'DATOS GENERALES EMPRESA.pdf',
-      fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7119-24/541533597_1267144048526031_3316778732221912512_n.enc?ccb=11-4&oh=01_Q5Aa2QFSOV1z8sF684QqPXGtBV8BJP6ZbcL1D_QllM8sO1maHg&oe=68DA931E&_nc_sid=5e03e0',
-      mediaKeyTimestamp: [Long],
-      contactVcard: false,
-      thumbnailDirectPath: '/v/t62.36145-24/540336679_1432901151157126_6024673083329367953_n.enc?ccb=11-4&oh=01_Q5Aa2QHiWvzYnp8iYHIL3oAB09QigQ_oQQiQ4dAhTkUwElqn8A&oe=68DAB347&_nc_sid=5e03e0',
-      thumbnailSha256: [Uint8Array],
-      thumbnailEncSha256: [Uint8Array],
-      jpegThumbnail: [Uint8Array],
-      contextInfo: [ContextInfo],
-      thumbnailHeight: 26,
-      thumbnailWidth: 18
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '_event_document__cd3ff9b2-cdcf-4bfc-b84b-62861dd7804e',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '191C2808484D6D44DD2A83C842719472',
-    participant: undefined
-  },
-  messageTimestamp: 1756575635,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Pen',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Pen',
-  from: '51981471327'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f',
-  keyword: 'key_f400752f-2cd9-4e89-b42d-233b5d8ddd98',
-  answer: '¡Hola! 😊 Soy tu asistente virtual.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '2dce7ad8da8cf4ca7ba1ae567c0368b3'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_15bec6fd-4292-4581-ad28-427d67e09102',
-  keyword: 'ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f',
-  answer: '✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n' +
-    '\r\n' +
-    '1️⃣ *Tramite Documentario*\r\n' +
-    '\r\n' +
-    'Por favor, responde con el número de la opción que deseas explorar. 😊',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [ [Object], [Object], [Object] ],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '21a6155b006026a6229748c14186bca3'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: 'DEB527B72E9951B4CFF957A582D34B4D',
-    participant: undefined
-  },
-  messageTimestamp: 1756575640,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage {
-      key: [MessageKey],
-      type: 4,
-      ephemeralExpiration: 86400,
-      ephemeralSettingTimestamp: [Long],
-      disappearingMode: [DisappearingMode]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '01F489582F682F062B8D1B71E5D6ABD9',
-    participant: undefined
-  },
-  messageTimestamp: 1756575652,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Necesito hacer una busqueda',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Necesito hacer una busqueda',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '0DF9D3C4BA029C4D38748F0A89040EAF',
-    participant: undefined
-  },
-  messageTimestamp: 1756575652,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage {
-      key: [MessageKey],
-      type: 4,
-      ephemeralExpiration: 86400,
-      ephemeralSettingTimestamp: [Long],
-      disappearingMode: [DisappearingMode]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '830B1E126390E3B378DCFF5A94E1787F',
-    participant: undefined
-  },
-  messageTimestamp: 1756575658,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: '1',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '1',
-  from: '51981471327'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f',
-  keyword: 'key_f400752f-2cd9-4e89-b42d-233b5d8ddd98',
-  answer: '¡Hola! 😊 Soy tu asistente virtual.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '2dce7ad8da8cf4ca7ba1ae567c0368b3'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_15bec6fd-4292-4581-ad28-427d67e09102',
-  keyword: 'ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f',
-  answer: '✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n' +
-    '\r\n' +
-    '1️⃣ *Tramite Documentario*\r\n' +
-    '\r\n' +
-    'Por favor, responde con el número de la opción que deseas explorar. 😊',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [ [Object], [Object], [Object] ],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '21a6155b006026a6229748c14186bca3'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '6DE59C62636F077B232F325287F1A6DD',
-    participant: undefined
-  },
-  messageTimestamp: 1756575659,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage {
-      key: [MessageKey],
-      type: 4,
-      ephemeralExpiration: 86400,
-      ephemeralSettingTimestamp: [Long],
-      disappearingMode: [DisappearingMode]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '7DDC2F68F2618823A24215A02530454C',
-    participant: undefined
-  },
-  messageTimestamp: 1756575666,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: '1',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '1',
-  from: '51981471327'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8',
-  keyword: 'key_fa937590-66ba-44ce-b47a-e0d501d220f7',
-  answer: 'Has seleccionado la opción 1: Trámite Documentario.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'ae8d48e65afc27fa2d68e7b812669d98'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_e3319209-ee68-40a3-8494-7798069701b7',
-  keyword: 'ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8',
-  answer: 'Las oficinas que trabajan con trámite documentario son:\r\n' +
-    '\r\n' +
-    '1️⃣ Formación Continua  \r\n' +
-    '2️⃣ Centro de Idiomas  \r\n' +
-    '3️⃣ Carreras Profesionales  \r\n' +
-    '\r\n' +
-    'Por favor, responde con el número de la oficina que deseas consultar. 😊',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object]
-    ],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'b9784a58ee5b80acf693d114e1b9fac1'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '5CA249A7EFE8F519CCEB8E0EE5A2B687',
-    participant: undefined
-  },
-  messageTimestamp: 1756575667,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage {
-      key: [MessageKey],
-      type: 4,
-      ephemeralExpiration: 86400,
-      ephemeralSettingTimestamp: [Long],
-      disappearingMode: [DisappearingMode]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '5DAA8A5CFAEC74ACAFF901399187C264',
-    participant: undefined
-  },
-  messageTimestamp: 1756575683,
+  messageTimestamp: 1756576495,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
@@ -971,8 +322,8 @@
   from: '51981471327'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_b436d216-be72-493a-bdfc-94caa976c988',
-  keyword: 'key_549b30fd-3369-4f4e-b837-59083a930c0b',
+  ref: 'ans_2804f045-3ddf-4a0b-91a3-c14297357d8d',
+  keyword: 'key_3c66fbce-104c-441d-8055-808aa9a42a2a',
   answer: 'Has seleccionado Carreras Profesionales.',
   options: {
     media: null,
@@ -986,11 +337,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'dbc914aa8369e4ffe30693d27729cef2'
+  refSerialize: '472839e61864bd4dd567ea5bfb052400'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_b2d85997-ad38-4824-8c04-9f5604c68557',
-  keyword: 'ans_b436d216-be72-493a-bdfc-94caa976c988',
+  ref: 'ans_985bafcb-7217-45f5-b96a-2e31c605025f',
+  keyword: 'ans_2804f045-3ddf-4a0b-91a3-c14297357d8d',
   answer: 'AQUI VA E PDF DE CARRERAS',
   options: {
     media: null,
@@ -1004,36 +355,16 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'bd35adab5fb668762b2b6b1a608fc88f'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_392b6d85-4f25-4455-b712-f214d39941e0',
-  keyword: 'ans_b2d85997-ad38-4824-8c04-9f5604c68557',
-  answer: '📄 *Recuerda:*\n' +
-    '*Todo trámite interno se inicia con la presentación del formato "Solicitud" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n' +
-    '*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'b7b288ec87e538dae9eb65c20628a634'
+  refSerialize: '193e5f1eea29542316c5d38d0b9b2224'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: '410D8ABD9D180D56306A552F578E331E',
+    id: '334274FA838330EC633A71C18496C51A',
     participant: undefined
   },
-  messageTimestamp: 1756575683,
+  messageTimestamp: 1756576496,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
@@ -1051,4 +382,24 @@
   },
   body: '',
   from: '51981471327'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_52c07e4a-d45a-4ae8-9bc1-f75e991e3259',
+  keyword: 'ans_985bafcb-7217-45f5-b96a-2e31c605025f',
+  answer: '📄 *Recuerda:*\n' +
+    '*Todo trámite interno se inicia con la presentación del formato "Solicitud" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n' +
+    '*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f5c021249c0308ffac7d9e6a575f84b9'
 }

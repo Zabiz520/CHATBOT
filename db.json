@@ -1,15 +1,15 @@
 [
   {
-    "ref": "8c3db6a1-5f4c-493d-bf7a-5eb08f024fc4",
-    "keyword": "0bb79ba86c26ab3c076ef19516fc9cdd",
-    "answer": "Buenas tardes",
+    "ref": "50529898-78e4-457b-8724-5e2faa357ddf",
+    "keyword": "01ed4c765747f80a5e9d28e0fbd73d09",
+    "answer": "Hola",
     "options": {},
     "from": "51981471327",
-    "refSerialize": "1c3d20a0870d0b8077027073fda0ed90"
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
   },
   {
-    "ref": "ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f",
-    "keyword": "key_f400752f-2cd9-4e89-b42d-233b5d8ddd98",
+    "ref": "ans_3434f50e-8f36-4d80-b279-b2a25acdfb4d",
+    "keyword": "key_8060fbc9-dd38-4a8d-80c0-a07f90ff695b",
     "answer": "¡Hola! 😊 Soy tu asistente virtual.",
     "options": {
       "media": null,
@@ -23,12 +23,12 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "2dce7ad8da8cf4ca7ba1ae567c0368b3",
+    "refSerialize": "5937e952a44734d0e78e74e706063155",
     "from": "51981471327"
   },
   {
-    "ref": "ans_15bec6fd-4292-4581-ad28-427d67e09102",
-    "keyword": "ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f",
+    "ref": "ans_9c2060ec-a132-4026-ab38-f80a13956d50",
+    "keyword": "ans_3434f50e-8f36-4d80-b279-b2a25acdfb4d",
     "answer": "✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n\r\n1️⃣ *Tramite Documentario*\r\n\r\nPor favor, responde con el número de la opción que deseas explorar. 😊",
     "options": {
       "media": null,
@@ -40,7 +40,7 @@
       "ref": null,
       "nested": [
         {
-          "ref": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
+          "ref": "key_30c278b2-89bb-4dcd-9c2d-e8a138fd4ff6",
           "keyword": "1",
           "options": {
             "sensitive": true,
@@ -49,8 +49,8 @@
           "refSerialize": "065e0005da6e5c278a53691e53b48955"
         },
         {
-          "ref": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "keyword": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
+          "ref": "ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0",
+          "keyword": "key_30c278b2-89bb-4dcd-9c2d-e8a138fd4ff6",
           "answer": "Has seleccionado la opción 1: Trámite Documentario.",
           "options": {
             "media": null,
@@ -64,11 +64,11 @@
             "keyword": {},
             "callback": false
           },
-          "refSerialize": "ae8d48e65afc27fa2d68e7b812669d98"
+          "refSerialize": "f51159b90589ef381f396e1131a76f34"
         },
         {
-          "ref": "ans_e3319209-ee68-40a3-8494-7798069701b7",
-          "keyword": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
+          "ref": "ans_4edb972d-13fe-40ee-9bfb-4dec26b1d855",
+          "keyword": "ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0",
           "answer": "Las oficinas que trabajan con trámite documentario son:\r\n\r\n1️⃣ Formación Continua  \r\n2️⃣ Centro de Idiomas  \r\n3️⃣ Carreras Profesionales  \r\n\r\nPor favor, responde con el número de la oficina que deseas consultar. 😊",
           "options": {
             "media": null,
@@ -80,7 +80,7 @@
             "ref": null,
             "nested": [
               {
-                "ref": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
+                "ref": "key_3c66fbce-104c-441d-8055-808aa9a42a2a",
                 "keyword": "3",
                 "options": {
                   "sensitive": true,
@@ -89,8 +89,8 @@
                 "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
               },
               {
-                "ref": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "keyword": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
+                "ref": "ans_2804f045-3ddf-4a0b-91a3-c14297357d8d",
+                "keyword": "key_3c66fbce-104c-441d-8055-808aa9a42a2a",
                 "answer": "Has seleccionado Carreras Profesionales.",
                 "options": {
                   "media": null,
@@ -104,11 +104,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "dbc914aa8369e4ffe30693d27729cef2"
+                "refSerialize": "472839e61864bd4dd567ea5bfb052400"
               },
               {
-                "ref": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "keyword": "ans_b436d216-be72-493a-bdfc-94caa976c988",
+                "ref": "ans_985bafcb-7217-45f5-b96a-2e31c605025f",
+                "keyword": "ans_2804f045-3ddf-4a0b-91a3-c14297357d8d",
                 "answer": "AQUI VA E PDF DE CARRERAS",
                 "options": {
                   "media": null,
@@ -122,11 +122,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "bd35adab5fb668762b2b6b1a608fc88f"
+                "refSerialize": "193e5f1eea29542316c5d38d0b9b2224"
               },
               {
-                "ref": "ans_392b6d85-4f25-4455-b712-f214d39941e0",
-                "keyword": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
+                "ref": "ans_52c07e4a-d45a-4ae8-9bc1-f75e991e3259",
+                "keyword": "ans_985bafcb-7217-45f5-b96a-2e31c605025f",
                 "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
                 "options": {
                   "media": null,
@@ -140,10 +140,10 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "b7b288ec87e538dae9eb65c20628a634"
+                "refSerialize": "f5c021249c0308ffac7d9e6a575f84b9"
               },
               {
-                "ref": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
+                "ref": "key_b5e55e77-cd86-4ad5-a32d-f6db93a5ca4c",
                 "keyword": "1",
                 "options": {
                   "sensitive": true,
@@ -152,8 +152,8 @@
                 "refSerialize": "065e0005da6e5c278a53691e53b48955"
               },
               {
-                "ref": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "keyword": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
+                "ref": "ans_8cd11457-486d-476f-9ed0-c5e39e0cf982",
+                "keyword": "key_b5e55e77-cd86-4ad5-a32d-f6db93a5ca4c",
                 "answer": "Has seleccionado Formación Continua.",
                 "options": {
                   "media": null,
@@ -167,11 +167,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "17c86a3cdfa121fc35d1ec2361095d6c"
+                "refSerialize": "611acd9a48f24625019114afbbff9901"
               },
               {
-                "ref": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "keyword": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
+                "ref": "ans_f6fa6921-9f1f-4a2f-a2dd-26cdd1dc8f95",
+                "keyword": "ans_8cd11457-486d-476f-9ed0-c5e39e0cf982",
                 "answer": "AQUI VA E PDF DE FC",
                 "options": {
                   "media": null,
@@ -185,11 +185,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "697eb47f650e52c07c7504199d8aa00a"
+                "refSerialize": "0f7e24b4077d39197dd423e5ea15267e"
               },
               {
-                "ref": "ans_5a0ea49a-6d3f-47ce-af1b-26b4d97c814e",
-                "keyword": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
+                "ref": "ans_5db5d69f-2c0f-40dc-9c86-1a9b1bde0464",
+                "keyword": "ans_f6fa6921-9f1f-4a2f-a2dd-26cdd1dc8f95",
                 "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
                 "options": {
                   "media": null,
@@ -203,10 +203,10 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "3218e25fa2905f2c131b0c3b60d8d720"
+                "refSerialize": "3182f74a825a48030636bc154f30afec"
               },
               {
-                "ref": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
+                "ref": "key_1ab4a06d-f460-49c8-a5ae-18a6d75faa32",
                 "keyword": "2",
                 "options": {
                   "sensitive": true,
@@ -215,8 +215,8 @@
                 "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
               },
               {
-                "ref": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "keyword": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
+                "ref": "ans_87f77a21-d436-447d-8977-96174a3ae7ac",
+                "keyword": "key_1ab4a06d-f460-49c8-a5ae-18a6d75faa32",
                 "answer": "Has seleccionado Centro de Idiomas.",
                 "options": {
                   "media": null,
@@ -230,11 +230,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "a0367fadd5f00eac0f5045ff4aa6f87c"
+                "refSerialize": "4b7ea7ecc83a023c67ca7da9bc80fd8f"
               },
               {
-                "ref": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "keyword": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
+                "ref": "ans_574e3760-7b96-429c-af17-ab59aee3adf6",
+                "keyword": "ans_87f77a21-d436-447d-8977-96174a3ae7ac",
                 "answer": "AQUI VA E PDF DE IDIOMAS",
                 "options": {
                   "media": null,
@@ -248,11 +248,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "40a0dfcb01f57678fe9d9ea579e7a342"
+                "refSerialize": "44b6098e1afe2b76010b538bc65f748a"
               },
               {
-                "ref": "ans_75fb2d28-7ff5-4973-8b54-ce5ad4db26fc",
-                "keyword": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
+                "ref": "ans_065c1d16-6cb7-447e-b1f0-4198ff3c549e",
+                "keyword": "ans_574e3760-7b96-429c-af17-ab59aee3adf6",
                 "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
                 "options": {
                   "media": null,
@@ -266,24 +266,24 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "833d9436db9fa8b1f47bc0ad83ca947f"
+                "refSerialize": "97298d08b12ce1c4cfba7954b564208b"
               }
             ],
             "keyword": {},
             "callback": true
           },
-          "refSerialize": "b9784a58ee5b80acf693d114e1b9fac1"
+          "refSerialize": "c0f35c6535b8923a12206a0e0b498678"
         }
       ],
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "21a6155b006026a6229748c14186bca3",
+    "refSerialize": "3bdfb18e640a807be75945b1c6015905",
     "from": "51981471327"
   },
   {
-    "ref": "ans_15bec6fd-4292-4581-ad28-427d67e09102",
-    "keyword": "ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f",
+    "ref": "ans_9c2060ec-a132-4026-ab38-f80a13956d50",
+    "keyword": "ans_3434f50e-8f36-4d80-b279-b2a25acdfb4d",
     "answer": "✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n\r\n1️⃣ *Tramite Documentario*\r\n\r\nPor favor, responde con el número de la opción que deseas explorar. 😊",
     "options": {
       "media": null,
@@ -295,7 +295,7 @@
       "ref": null,
       "nested": [
         {
-          "ref": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
+          "ref": "key_30c278b2-89bb-4dcd-9c2d-e8a138fd4ff6",
           "keyword": "1",
           "options": {
             "sensitive": true,
@@ -304,8 +304,8 @@
           "refSerialize": "065e0005da6e5c278a53691e53b48955"
         },
         {
-          "ref": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "keyword": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
+          "ref": "ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0",
+          "keyword": "key_30c278b2-89bb-4dcd-9c2d-e8a138fd4ff6",
           "answer": "Has seleccionado la opción 1: Trámite Documentario.",
           "options": {
             "media": null,
@@ -319,11 +319,11 @@
             "keyword": {},
             "callback": false
           },
-          "refSerialize": "ae8d48e65afc27fa2d68e7b812669d98"
+          "refSerialize": "f51159b90589ef381f396e1131a76f34"
         },
         {
-          "ref": "ans_e3319209-ee68-40a3-8494-7798069701b7",
-          "keyword": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
+          "ref": "ans_4edb972d-13fe-40ee-9bfb-4dec26b1d855",
+          "keyword": "ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0",
           "answer": "Las oficinas que trabajan con trámite documentario son:\r\n\r\n1️⃣ Formación Continua  \r\n2️⃣ Centro de Idiomas  \r\n3️⃣ Carreras Profesionales  \r\n\r\nPor favor, responde con el número de la oficina que deseas consultar. 😊",
           "options": {
             "media": null,
@@ -335,7 +335,7 @@
             "ref": null,
             "nested": [
               {
-                "ref": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
+                "ref": "key_3c66fbce-104c-441d-8055-808aa9a42a2a",
                 "keyword": "3",
                 "options": {
                   "sensitive": true,
@@ -344,8 +344,8 @@
                 "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
               },
               {
-                "ref": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "keyword": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
+                "ref": "ans_2804f045-3ddf-4a0b-91a3-c14297357d8d",
+                "keyword": "key_3c66fbce-104c-441d-8055-808aa9a42a2a",
                 "answer": "Has seleccionado Carreras Profesionales.",
                 "options": {
                   "media": null,
@@ -359,11 +359,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "dbc914aa8369e4ffe30693d27729cef2"
+                "refSerialize": "472839e61864bd4dd567ea5bfb052400"
               },
               {
-                "ref": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "keyword": "ans_b436d216-be72-493a-bdfc-94caa976c988",
+                "ref": "ans_985bafcb-7217-45f5-b96a-2e31c605025f",
+                "keyword": "ans_2804f045-3ddf-4a0b-91a3-c14297357d8d",
                 "answer": "AQUI VA E PDF DE CARRERAS",
                 "options": {
                   "media": null,
@@ -377,11 +377,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "bd35adab5fb668762b2b6b1a608fc88f"
+                "refSerialize": "193e5f1eea29542316c5d38d0b9b2224"
               },
               {
-                "ref": "ans_392b6d85-4f25-4455-b712-f214d39941e0",
-                "keyword": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
+                "ref": "ans_52c07e4a-d45a-4ae8-9bc1-f75e991e3259",
+                "keyword": "ans_985bafcb-7217-45f5-b96a-2e31c605025f",
                 "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
                 "options": {
                   "media": null,
@@ -395,10 +395,10 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "b7b288ec87e538dae9eb65c20628a634"
+                "refSerialize": "f5c021249c0308ffac7d9e6a575f84b9"
               },
               {
-                "ref": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
+                "ref": "key_b5e55e77-cd86-4ad5-a32d-f6db93a5ca4c",
                 "keyword": "1",
                 "options": {
                   "sensitive": true,
@@ -407,8 +407,8 @@
                 "refSerialize": "065e0005da6e5c278a53691e53b48955"
               },
               {
-                "ref": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "keyword": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
+                "ref": "ans_8cd11457-486d-476f-9ed0-c5e39e0cf982",
+                "keyword": "key_b5e55e77-cd86-4ad5-a32d-f6db93a5ca4c",
                 "answer": "Has seleccionado Formación Continua.",
                 "options": {
                   "media": null,
@@ -422,11 +422,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "17c86a3cdfa121fc35d1ec2361095d6c"
+                "refSerialize": "611acd9a48f24625019114afbbff9901"
               },
               {
-                "ref": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "keyword": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
+                "ref": "ans_f6fa6921-9f1f-4a2f-a2dd-26cdd1dc8f95",
+                "keyword": "ans_8cd11457-486d-476f-9ed0-c5e39e0cf982",
                 "answer": "AQUI VA E PDF DE FC",
                 "options": {
                   "media": null,
@@ -440,11 +440,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "697eb47f650e52c07c7504199d8aa00a"
+                "refSerialize": "0f7e24b4077d39197dd423e5ea15267e"
               },
               {
-                "ref": "ans_5a0ea49a-6d3f-47ce-af1b-26b4d97c814e",
-                "keyword": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
+                "ref": "ans_5db5d69f-2c0f-40dc-9c86-1a9b1bde0464",
+                "keyword": "ans_f6fa6921-9f1f-4a2f-a2dd-26cdd1dc8f95",
                 "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
                 "options": {
                   "media": null,
@@ -458,10 +458,10 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "3218e25fa2905f2c131b0c3b60d8d720"
+                "refSerialize": "3182f74a825a48030636bc154f30afec"
               },
               {
-                "ref": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
+                "ref": "key_1ab4a06d-f460-49c8-a5ae-18a6d75faa32",
                 "keyword": "2",
                 "options": {
                   "sensitive": true,
@@ -470,8 +470,8 @@
                 "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
               },
               {
-                "ref": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "keyword": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
+                "ref": "ans_87f77a21-d436-447d-8977-96174a3ae7ac",
+                "keyword": "key_1ab4a06d-f460-49c8-a5ae-18a6d75faa32",
                 "answer": "Has seleccionado Centro de Idiomas.",
                 "options": {
                   "media": null,
@@ -485,11 +485,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "a0367fadd5f00eac0f5045ff4aa6f87c"
+                "refSerialize": "4b7ea7ecc83a023c67ca7da9bc80fd8f"
               },
               {
-                "ref": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "keyword": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
+                "ref": "ans_574e3760-7b96-429c-af17-ab59aee3adf6",
+                "keyword": "ans_87f77a21-d436-447d-8977-96174a3ae7ac",
                 "answer": "AQUI VA E PDF DE IDIOMAS",
                 "options": {
                   "media": null,
@@ -503,11 +503,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "40a0dfcb01f57678fe9d9ea579e7a342"
+                "refSerialize": "44b6098e1afe2b76010b538bc65f748a"
               },
               {
-                "ref": "ans_75fb2d28-7ff5-4973-8b54-ce5ad4db26fc",
-                "keyword": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
+                "ref": "ans_065c1d16-6cb7-447e-b1f0-4198ff3c549e",
+                "keyword": "ans_574e3760-7b96-429c-af17-ab59aee3adf6",
                 "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
                 "options": {
                   "media": null,
@@ -521,31 +521,31 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "833d9436db9fa8b1f47bc0ad83ca947f"
+                "refSerialize": "97298d08b12ce1c4cfba7954b564208b"
               }
             ],
             "keyword": {},
             "callback": true
           },
-          "refSerialize": "b9784a58ee5b80acf693d114e1b9fac1"
+          "refSerialize": "c0f35c6535b8923a12206a0e0b498678"
         }
       ],
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "21a6155b006026a6229748c14186bca3",
+    "refSerialize": "3bdfb18e640a807be75945b1c6015905",
     "from": "51981471327"
   },
   {
-    "ref": "9f1de90c-efb4-43cd-a1df-8290ede2142f",
-    "keyword": "21a6155b006026a6229748c14186bca3",
-    "answer": "2",
+    "ref": "fbcb12c1-3388-4663-b78d-1783ed779bbc",
+    "keyword": "3bdfb18e640a807be75945b1c6015905",
+    "answer": "Pene",
     "options": {},
     "from": "51981471327",
-    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+    "refSerialize": "01ed4c765747f80a5e9d28e0fbd73d09"
   },
   {
-    "ref": "c8383260-7ae9-403a-b14d-41040876ab78",
+    "ref": "c0216e2d-0110-48c6-917a-080d3120297f",
     "keyword": null,
     "answer": "Esta no es una de las opciones. Por favor, elige una opción válida:",
     "options": {
@@ -558,9 +558,272 @@
     "refSerialize": "7b58b9a8467471fa9ece4c251f4fa7be"
   },
   {
-    "ref": "51ab4d81-4787-41fa-aaed-f6b268ccc2fa",
-    "keyword": null,
+    "ref": "ans_9c2060ec-a132-4026-ab38-f80a13956d50",
+    "keyword": "ans_3434f50e-8f36-4d80-b279-b2a25acdfb4d",
     "answer": "✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n\r\n1️⃣ *Tramite Documentario*\r\n\r\nPor favor, responde con el número de la opción que deseas explorar. 😊",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [
+        {
+          "ref": "key_30c278b2-89bb-4dcd-9c2d-e8a138fd4ff6",
+          "keyword": "1",
+          "options": {
+            "sensitive": true,
+            "regex": false
+          },
+          "refSerialize": "065e0005da6e5c278a53691e53b48955"
+        },
+        {
+          "ref": "ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0",
+          "keyword": "key_30c278b2-89bb-4dcd-9c2d-e8a138fd4ff6",
+          "answer": "Has seleccionado la opción 1: Trámite Documentario.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "f51159b90589ef381f396e1131a76f34"
+        },
+        {
+          "ref": "ans_4edb972d-13fe-40ee-9bfb-4dec26b1d855",
+          "keyword": "ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0",
+          "answer": "Las oficinas que trabajan con trámite documentario son:\r\n\r\n1️⃣ Formación Continua  \r\n2️⃣ Centro de Idiomas  \r\n3️⃣ Carreras Profesionales  \r\n\r\nPor favor, responde con el número de la oficina que deseas consultar. 😊",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_3c66fbce-104c-441d-8055-808aa9a42a2a",
+                "keyword": "3",
+                "options": {
+                  "sensitive": true,
+                  "regex": false
+                },
+                "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
+              },
+              {
+                "ref": "ans_2804f045-3ddf-4a0b-91a3-c14297357d8d",
+                "keyword": "key_3c66fbce-104c-441d-8055-808aa9a42a2a",
+                "answer": "Has seleccionado Carreras Profesionales.",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "472839e61864bd4dd567ea5bfb052400"
+              },
+              {
+                "ref": "ans_985bafcb-7217-45f5-b96a-2e31c605025f",
+                "keyword": "ans_2804f045-3ddf-4a0b-91a3-c14297357d8d",
+                "answer": "AQUI VA E PDF DE CARRERAS",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "193e5f1eea29542316c5d38d0b9b2224"
+              },
+              {
+                "ref": "ans_52c07e4a-d45a-4ae8-9bc1-f75e991e3259",
+                "keyword": "ans_985bafcb-7217-45f5-b96a-2e31c605025f",
+                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "f5c021249c0308ffac7d9e6a575f84b9"
+              },
+              {
+                "ref": "key_b5e55e77-cd86-4ad5-a32d-f6db93a5ca4c",
+                "keyword": "1",
+                "options": {
+                  "sensitive": true,
+                  "regex": false
+                },
+                "refSerialize": "065e0005da6e5c278a53691e53b48955"
+              },
+              {
+                "ref": "ans_8cd11457-486d-476f-9ed0-c5e39e0cf982",
+                "keyword": "key_b5e55e77-cd86-4ad5-a32d-f6db93a5ca4c",
+                "answer": "Has seleccionado Formación Continua.",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "611acd9a48f24625019114afbbff9901"
+              },
+              {
+                "ref": "ans_f6fa6921-9f1f-4a2f-a2dd-26cdd1dc8f95",
+                "keyword": "ans_8cd11457-486d-476f-9ed0-c5e39e0cf982",
+                "answer": "AQUI VA E PDF DE FC",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "0f7e24b4077d39197dd423e5ea15267e"
+              },
+              {
+                "ref": "ans_5db5d69f-2c0f-40dc-9c86-1a9b1bde0464",
+                "keyword": "ans_f6fa6921-9f1f-4a2f-a2dd-26cdd1dc8f95",
+                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "3182f74a825a48030636bc154f30afec"
+              },
+              {
+                "ref": "key_1ab4a06d-f460-49c8-a5ae-18a6d75faa32",
+                "keyword": "2",
+                "options": {
+                  "sensitive": true,
+                  "regex": false
+                },
+                "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
+              },
+              {
+                "ref": "ans_87f77a21-d436-447d-8977-96174a3ae7ac",
+                "keyword": "key_1ab4a06d-f460-49c8-a5ae-18a6d75faa32",
+                "answer": "Has seleccionado Centro de Idiomas.",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "4b7ea7ecc83a023c67ca7da9bc80fd8f"
+              },
+              {
+                "ref": "ans_574e3760-7b96-429c-af17-ab59aee3adf6",
+                "keyword": "ans_87f77a21-d436-447d-8977-96174a3ae7ac",
+                "answer": "AQUI VA E PDF DE IDIOMAS",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "44b6098e1afe2b76010b538bc65f748a"
+              },
+              {
+                "ref": "ans_065c1d16-6cb7-447e-b1f0-4198ff3c549e",
+                "keyword": "ans_574e3760-7b96-429c-af17-ab59aee3adf6",
+                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "97298d08b12ce1c4cfba7954b564208b"
+              }
+            ],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c0f35c6535b8923a12206a0e0b498678"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "3bdfb18e640a807be75945b1c6015905",
+    "from": "51981471327"
+  },
+  {
+    "ref": "34e15409-eb42-4a03-997f-2f9d6f4b836d",
+    "keyword": "3bdfb18e640a807be75945b1c6015905",
+    "answer": "Pene",
+    "options": {},
+    "from": "51981471327",
+    "refSerialize": "01ed4c765747f80a5e9d28e0fbd73d09"
+  },
+  {
+    "ref": "9a06c71e-b172-40d9-b503-b3df49a8e9a2",
+    "keyword": null,
+    "answer": "Esta no es una de las opciones. Por favor, elige una opción válida:",
     "options": {
       "media": null,
       "buttons": [],
@@ -568,38 +831,11 @@
       "delay": 0
     },
     "from": "51981471327",
-    "refSerialize": "640e94d71b8cfbc179029349a52b7d1a"
+    "refSerialize": "7b58b9a8467471fa9ece4c251f4fa7be"
   },
   {
-    "ref": "54e43517-afc3-4859-816f-5fbb5fda18c1",
-    "keyword": "2294c3d08b53a6effa5df696a15b9d30",
-    "answer": "Hola buenas la opcion 1",
-    "options": {},
-    "from": "51981471327",
-    "refSerialize": "9adfc8a5b9aa174883413bb148b72aea"
-  },
-  {
-    "ref": "ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f",
-    "keyword": "key_f400752f-2cd9-4e89-b42d-233b5d8ddd98",
-    "answer": "¡Hola! 😊 Soy tu asistente virtual.",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "2dce7ad8da8cf4ca7ba1ae567c0368b3",
-    "from": "51981471327"
-  },
-  {
-    "ref": "ans_15bec6fd-4292-4581-ad28-427d67e09102",
-    "keyword": "ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f",
+    "ref": "ans_9c2060ec-a132-4026-ab38-f80a13956d50",
+    "keyword": "ans_3434f50e-8f36-4d80-b279-b2a25acdfb4d",
     "answer": "✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n\r\n1️⃣ *Tramite Documentario*\r\n\r\nPor favor, responde con el número de la opción que deseas explorar. 😊",
     "options": {
       "media": null,
@@ -611,7 +847,7 @@
       "ref": null,
       "nested": [
         {
-          "ref": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
+          "ref": "key_30c278b2-89bb-4dcd-9c2d-e8a138fd4ff6",
           "keyword": "1",
           "options": {
             "sensitive": true,
@@ -620,8 +856,8 @@
           "refSerialize": "065e0005da6e5c278a53691e53b48955"
         },
         {
-          "ref": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "keyword": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
+          "ref": "ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0",
+          "keyword": "key_30c278b2-89bb-4dcd-9c2d-e8a138fd4ff6",
           "answer": "Has seleccionado la opción 1: Trámite Documentario.",
           "options": {
             "media": null,
@@ -635,11 +871,11 @@
             "keyword": {},
             "callback": false
           },
-          "refSerialize": "ae8d48e65afc27fa2d68e7b812669d98"
+          "refSerialize": "f51159b90589ef381f396e1131a76f34"
         },
         {
-          "ref": "ans_e3319209-ee68-40a3-8494-7798069701b7",
-          "keyword": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
+          "ref": "ans_4edb972d-13fe-40ee-9bfb-4dec26b1d855",
+          "keyword": "ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0",
           "answer": "Las oficinas que trabajan con trámite documentario son:\r\n\r\n1️⃣ Formación Continua  \r\n2️⃣ Centro de Idiomas  \r\n3️⃣ Carreras Profesionales  \r\n\r\nPor favor, responde con el número de la oficina que deseas consultar. 😊",
           "options": {
             "media": null,
@@ -651,7 +887,7 @@
             "ref": null,
             "nested": [
               {
-                "ref": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
+                "ref": "key_3c66fbce-104c-441d-8055-808aa9a42a2a",
                 "keyword": "3",
                 "options": {
                   "sensitive": true,
@@ -660,8 +896,8 @@
                 "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
               },
               {
-                "ref": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "keyword": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
+                "ref": "ans_2804f045-3ddf-4a0b-91a3-c14297357d8d",
+                "keyword": "key_3c66fbce-104c-441d-8055-808aa9a42a2a",
                 "answer": "Has seleccionado Carreras Profesionales.",
                 "options": {
                   "media": null,
@@ -675,11 +911,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "dbc914aa8369e4ffe30693d27729cef2"
+                "refSerialize": "472839e61864bd4dd567ea5bfb052400"
               },
               {
-                "ref": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "keyword": "ans_b436d216-be72-493a-bdfc-94caa976c988",
+                "ref": "ans_985bafcb-7217-45f5-b96a-2e31c605025f",
+                "keyword": "ans_2804f045-3ddf-4a0b-91a3-c14297357d8d",
                 "answer": "AQUI VA E PDF DE CARRERAS",
                 "options": {
                   "media": null,
@@ -693,11 +929,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "bd35adab5fb668762b2b6b1a608fc88f"
+                "refSerialize": "193e5f1eea29542316c5d38d0b9b2224"
               },
               {
-                "ref": "ans_392b6d85-4f25-4455-b712-f214d39941e0",
-                "keyword": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
+                "ref": "ans_52c07e4a-d45a-4ae8-9bc1-f75e991e3259",
+                "keyword": "ans_985bafcb-7217-45f5-b96a-2e31c605025f",
                 "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
                 "options": {
                   "media": null,
@@ -711,10 +947,10 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "b7b288ec87e538dae9eb65c20628a634"
+                "refSerialize": "f5c021249c0308ffac7d9e6a575f84b9"
               },
               {
-                "ref": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
+                "ref": "key_b5e55e77-cd86-4ad5-a32d-f6db93a5ca4c",
                 "keyword": "1",
                 "options": {
                   "sensitive": true,
@@ -723,8 +959,8 @@
                 "refSerialize": "065e0005da6e5c278a53691e53b48955"
               },
               {
-                "ref": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "keyword": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
+                "ref": "ans_8cd11457-486d-476f-9ed0-c5e39e0cf982",
+                "keyword": "key_b5e55e77-cd86-4ad5-a32d-f6db93a5ca4c",
                 "answer": "Has seleccionado Formación Continua.",
                 "options": {
                   "media": null,
@@ -738,11 +974,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "17c86a3cdfa121fc35d1ec2361095d6c"
+                "refSerialize": "611acd9a48f24625019114afbbff9901"
               },
               {
-                "ref": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "keyword": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
+                "ref": "ans_f6fa6921-9f1f-4a2f-a2dd-26cdd1dc8f95",
+                "keyword": "ans_8cd11457-486d-476f-9ed0-c5e39e0cf982",
                 "answer": "AQUI VA E PDF DE FC",
                 "options": {
                   "media": null,
@@ -756,11 +992,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "697eb47f650e52c07c7504199d8aa00a"
+                "refSerialize": "0f7e24b4077d39197dd423e5ea15267e"
               },
               {
-                "ref": "ans_5a0ea49a-6d3f-47ce-af1b-26b4d97c814e",
-                "keyword": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
+                "ref": "ans_5db5d69f-2c0f-40dc-9c86-1a9b1bde0464",
+                "keyword": "ans_f6fa6921-9f1f-4a2f-a2dd-26cdd1dc8f95",
                 "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
                 "options": {
                   "media": null,
@@ -774,10 +1010,10 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "3218e25fa2905f2c131b0c3b60d8d720"
+                "refSerialize": "3182f74a825a48030636bc154f30afec"
               },
               {
-                "ref": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
+                "ref": "key_1ab4a06d-f460-49c8-a5ae-18a6d75faa32",
                 "keyword": "2",
                 "options": {
                   "sensitive": true,
@@ -786,8 +1022,8 @@
                 "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
               },
               {
-                "ref": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "keyword": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
+                "ref": "ans_87f77a21-d436-447d-8977-96174a3ae7ac",
+                "keyword": "key_1ab4a06d-f460-49c8-a5ae-18a6d75faa32",
                 "answer": "Has seleccionado Centro de Idiomas.",
                 "options": {
                   "media": null,
@@ -801,11 +1037,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "a0367fadd5f00eac0f5045ff4aa6f87c"
+                "refSerialize": "4b7ea7ecc83a023c67ca7da9bc80fd8f"
               },
               {
-                "ref": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "keyword": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
+                "ref": "ans_574e3760-7b96-429c-af17-ab59aee3adf6",
+                "keyword": "ans_87f77a21-d436-447d-8977-96174a3ae7ac",
                 "answer": "AQUI VA E PDF DE IDIOMAS",
                 "options": {
                   "media": null,
@@ -819,11 +1055,11 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "40a0dfcb01f57678fe9d9ea579e7a342"
+                "refSerialize": "44b6098e1afe2b76010b538bc65f748a"
               },
               {
-                "ref": "ans_75fb2d28-7ff5-4973-8b54-ce5ad4db26fc",
-                "keyword": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
+                "ref": "ans_065c1d16-6cb7-447e-b1f0-4198ff3c549e",
+                "keyword": "ans_574e3760-7b96-429c-af17-ab59aee3adf6",
                 "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
                 "options": {
                   "media": null,
@@ -837,287 +1073,32 @@
                   "keyword": {},
                   "callback": false
                 },
-                "refSerialize": "833d9436db9fa8b1f47bc0ad83ca947f"
+                "refSerialize": "97298d08b12ce1c4cfba7954b564208b"
               }
             ],
             "keyword": {},
             "callback": true
           },
-          "refSerialize": "b9784a58ee5b80acf693d114e1b9fac1"
+          "refSerialize": "c0f35c6535b8923a12206a0e0b498678"
         }
       ],
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "21a6155b006026a6229748c14186bca3",
+    "refSerialize": "3bdfb18e640a807be75945b1c6015905",
     "from": "51981471327"
   },
   {
-    "ref": "ans_15bec6fd-4292-4581-ad28-427d67e09102",
-    "keyword": "ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f",
-    "answer": "✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n\r\n1️⃣ *Tramite Documentario*\r\n\r\nPor favor, responde con el número de la opción que deseas explorar. 😊",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [
-        {
-          "ref": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
-          "keyword": "1",
-          "options": {
-            "sensitive": true,
-            "regex": false
-          },
-          "refSerialize": "065e0005da6e5c278a53691e53b48955"
-        },
-        {
-          "ref": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "keyword": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
-          "answer": "Has seleccionado la opción 1: Trámite Documentario.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "ae8d48e65afc27fa2d68e7b812669d98"
-        },
-        {
-          "ref": "ans_e3319209-ee68-40a3-8494-7798069701b7",
-          "keyword": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "answer": "Las oficinas que trabajan con trámite documentario son:\r\n\r\n1️⃣ Formación Continua  \r\n2️⃣ Centro de Idiomas  \r\n3️⃣ Carreras Profesionales  \r\n\r\nPor favor, responde con el número de la oficina que deseas consultar. 😊",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": true,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
-                "keyword": "3",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
-              },
-              {
-                "ref": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "keyword": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
-                "answer": "Has seleccionado Carreras Profesionales.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "dbc914aa8369e4ffe30693d27729cef2"
-              },
-              {
-                "ref": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "keyword": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "answer": "AQUI VA E PDF DE CARRERAS",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "bd35adab5fb668762b2b6b1a608fc88f"
-              },
-              {
-                "ref": "ans_392b6d85-4f25-4455-b712-f214d39941e0",
-                "keyword": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "b7b288ec87e538dae9eb65c20628a634"
-              },
-              {
-                "ref": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
-                "keyword": "1",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "065e0005da6e5c278a53691e53b48955"
-              },
-              {
-                "ref": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "keyword": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
-                "answer": "Has seleccionado Formación Continua.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "17c86a3cdfa121fc35d1ec2361095d6c"
-              },
-              {
-                "ref": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "keyword": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "answer": "AQUI VA E PDF DE FC",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "697eb47f650e52c07c7504199d8aa00a"
-              },
-              {
-                "ref": "ans_5a0ea49a-6d3f-47ce-af1b-26b4d97c814e",
-                "keyword": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "3218e25fa2905f2c131b0c3b60d8d720"
-              },
-              {
-                "ref": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-                "keyword": "2",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
-              },
-              {
-                "ref": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "keyword": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-                "answer": "Has seleccionado Centro de Idiomas.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "a0367fadd5f00eac0f5045ff4aa6f87c"
-              },
-              {
-                "ref": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "keyword": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "answer": "AQUI VA E PDF DE IDIOMAS",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "40a0dfcb01f57678fe9d9ea579e7a342"
-              },
-              {
-                "ref": "ans_75fb2d28-7ff5-4973-8b54-ce5ad4db26fc",
-                "keyword": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "833d9436db9fa8b1f47bc0ad83ca947f"
-              }
-            ],
-            "keyword": {},
-            "callback": true
-          },
-          "refSerialize": "b9784a58ee5b80acf693d114e1b9fac1"
-        }
-      ],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "21a6155b006026a6229748c14186bca3",
-    "from": "51981471327"
-  },
-  {
-    "ref": "aeda36dd-9edb-403b-8b86-ce66b504aa2f",
-    "keyword": "21a6155b006026a6229748c14186bca3",
-    "answer": "Hola 1",
+    "ref": "bde2861e-fd88-48b7-a9b2-7155fa90feb5",
+    "keyword": "3bdfb18e640a807be75945b1c6015905",
+    "answer": "1",
     "options": {},
     "from": "51981471327",
-    "refSerialize": "8dd9c37da9e1011688febb0cbf08f386"
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
   },
   {
-    "ref": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-    "keyword": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
+    "ref": "ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0",
+    "keyword": "key_30c278b2-89bb-4dcd-9c2d-e8a138fd4ff6",
     "answer": "Has seleccionado la opción 1: Trámite Documentario.",
     "options": {
       "media": null,
@@ -1131,12 +1112,12 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "ae8d48e65afc27fa2d68e7b812669d98",
+    "refSerialize": "f51159b90589ef381f396e1131a76f34",
     "from": "51981471327"
   },
   {
-    "ref": "ans_e3319209-ee68-40a3-8494-7798069701b7",
-    "keyword": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
+    "ref": "ans_4edb972d-13fe-40ee-9bfb-4dec26b1d855",
+    "keyword": "ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0",
     "answer": "Las oficinas que trabajan con trámite documentario son:\r\n\r\n1️⃣ Formación Continua  \r\n2️⃣ Centro de Idiomas  \r\n3️⃣ Carreras Profesionales  \r\n\r\nPor favor, responde con el número de la oficina que deseas consultar. 😊",
     "options": {
       "media": null,
@@ -1148,7 +1129,7 @@
       "ref": null,
       "nested": [
         {
-          "ref": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
+          "ref": "key_3c66fbce-104c-441d-8055-808aa9a42a2a",
           "keyword": "3",
           "options": {
             "sensitive": true,
@@ -1157,8 +1138,8 @@
           "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
         },
         {
-          "ref": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-          "keyword": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
+          "ref": "ans_2804f045-3ddf-4a0b-91a3-c14297357d8d",
+          "keyword": "key_3c66fbce-104c-441d-8055-808aa9a42a2a",
           "answer": "Has seleccionado Carreras Profesionales.",
           "options": {
             "media": null,
@@ -1172,11 +1153,11 @@
             "keyword": {},
             "callback": false
           },
-          "refSerialize": "dbc914aa8369e4ffe30693d27729cef2"
+          "refSerialize": "472839e61864bd4dd567ea5bfb052400"
         },
         {
-          "ref": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-          "keyword": "ans_b436d216-be72-493a-bdfc-94caa976c988",
+          "ref": "ans_985bafcb-7217-45f5-b96a-2e31c605025f",
+          "keyword": "ans_2804f045-3ddf-4a0b-91a3-c14297357d8d",
           "answer": "AQUI VA E PDF DE CARRERAS",
           "options": {
             "media": null,
@@ -1190,11 +1171,11 @@
             "keyword": {},
             "callback": false
           },
-          "refSerialize": "bd35adab5fb668762b2b6b1a608fc88f"
+          "refSerialize": "193e5f1eea29542316c5d38d0b9b2224"
         },
         {
-          "ref": "ans_392b6d85-4f25-4455-b712-f214d39941e0",
-          "keyword": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
+          "ref": "ans_52c07e4a-d45a-4ae8-9bc1-f75e991e3259",
+          "keyword": "ans_985bafcb-7217-45f5-b96a-2e31c605025f",
           "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
           "options": {
             "media": null,
@@ -1208,10 +1189,10 @@
             "keyword": {},
             "callback": false
           },
-          "refSerialize": "b7b288ec87e538dae9eb65c20628a634"
+          "refSerialize": "f5c021249c0308ffac7d9e6a575f84b9"
         },
         {
-          "ref": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
+          "ref": "key_b5e55e77-cd86-4ad5-a32d-f6db93a5ca4c",
           "keyword": "1",
           "options": {
             "sensitive": true,
@@ -1220,8 +1201,8 @@
           "refSerialize": "065e0005da6e5c278a53691e53b48955"
         },
         {
-          "ref": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-          "keyword": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
+          "ref": "ans_8cd11457-486d-476f-9ed0-c5e39e0cf982",
+          "keyword": "key_b5e55e77-cd86-4ad5-a32d-f6db93a5ca4c",
           "answer": "Has seleccionado Formación Continua.",
           "options": {
             "media": null,
@@ -1235,11 +1216,11 @@
             "keyword": {},
             "callback": false
           },
-          "refSerialize": "17c86a3cdfa121fc35d1ec2361095d6c"
+          "refSerialize": "611acd9a48f24625019114afbbff9901"
         },
         {
-          "ref": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-          "keyword": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
+          "ref": "ans_f6fa6921-9f1f-4a2f-a2dd-26cdd1dc8f95",
+          "keyword": "ans_8cd11457-486d-476f-9ed0-c5e39e0cf982",
           "answer": "AQUI VA E PDF DE FC",
           "options": {
             "media": null,
@@ -1253,11 +1234,11 @@
             "keyword": {},
             "callback": false
           },
-          "refSerialize": "697eb47f650e52c07c7504199d8aa00a"
+          "refSerialize": "0f7e24b4077d39197dd423e5ea15267e"
         },
         {
-          "ref": "ans_5a0ea49a-6d3f-47ce-af1b-26b4d97c814e",
-          "keyword": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
+          "ref": "ans_5db5d69f-2c0f-40dc-9c86-1a9b1bde0464",
+          "keyword": "ans_f6fa6921-9f1f-4a2f-a2dd-26cdd1dc8f95",
           "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
           "options": {
             "media": null,
@@ -1271,10 +1252,10 @@
             "keyword": {},
             "callback": false
           },
-          "refSerialize": "3218e25fa2905f2c131b0c3b60d8d720"
+          "refSerialize": "3182f74a825a48030636bc154f30afec"
         },
         {
-          "ref": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
+          "ref": "key_1ab4a06d-f460-49c8-a5ae-18a6d75faa32",
           "keyword": "2",
           "options": {
             "sensitive": true,
@@ -1283,8 +1264,8 @@
           "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
         },
         {
-          "ref": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-          "keyword": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
+          "ref": "ans_87f77a21-d436-447d-8977-96174a3ae7ac",
+          "keyword": "key_1ab4a06d-f460-49c8-a5ae-18a6d75faa32",
           "answer": "Has seleccionado Centro de Idiomas.",
           "options": {
             "media": null,
@@ -1298,11 +1279,11 @@
             "keyword": {},
             "callback": false
           },
-          "refSerialize": "a0367fadd5f00eac0f5045ff4aa6f87c"
+          "refSerialize": "4b7ea7ecc83a023c67ca7da9bc80fd8f"
         },
         {
-          "ref": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-          "keyword": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
+          "ref": "ans_574e3760-7b96-429c-af17-ab59aee3adf6",
+          "keyword": "ans_87f77a21-d436-447d-8977-96174a3ae7ac",
           "answer": "AQUI VA E PDF DE IDIOMAS",
           "options": {
             "media": null,
@@ -1316,11 +1297,11 @@
             "keyword": {},
             "callback": false
           },
-          "refSerialize": "40a0dfcb01f57678fe9d9ea579e7a342"
+          "refSerialize": "44b6098e1afe2b76010b538bc65f748a"
         },
         {
-          "ref": "ans_75fb2d28-7ff5-4973-8b54-ce5ad4db26fc",
-          "keyword": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
+          "ref": "ans_065c1d16-6cb7-447e-b1f0-4198ff3c549e",
+          "keyword": "ans_574e3760-7b96-429c-af17-ab59aee3adf6",
           "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
           "options": {
             "media": null,
@@ -1334,1467 +1315,26 @@
             "keyword": {},
             "callback": false
           },
-          "refSerialize": "833d9436db9fa8b1f47bc0ad83ca947f"
+          "refSerialize": "97298d08b12ce1c4cfba7954b564208b"
         }
       ],
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "b9784a58ee5b80acf693d114e1b9fac1",
+    "refSerialize": "c0f35c6535b8923a12206a0e0b498678",
     "from": "51981471327"
   },
   {
-    "ref": "83f77a5b-d741-4dc5-8013-803341b4fe54",
-    "keyword": "b9784a58ee5b80acf693d114e1b9fac1",
-    "answer": "2",
-    "options": {},
-    "from": "51981471327",
-    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
-  },
-  {
-    "ref": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-    "keyword": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-    "answer": "Has seleccionado Centro de Idiomas.",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "a0367fadd5f00eac0f5045ff4aa6f87c",
-    "from": "51981471327"
-  },
-  {
-    "ref": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-    "keyword": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-    "answer": "AQUI VA E PDF DE IDIOMAS",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "40a0dfcb01f57678fe9d9ea579e7a342",
-    "from": "51981471327"
-  },
-  {
-    "ref": "ans_75fb2d28-7ff5-4973-8b54-ce5ad4db26fc",
-    "keyword": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-    "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "833d9436db9fa8b1f47bc0ad83ca947f",
-    "from": "51981471327"
-  },
-  {
-    "ref": "8c50e1e1-e4d1-41fc-adf4-7b934731238a",
-    "keyword": "833d9436db9fa8b1f47bc0ad83ca947f",
-    "answer": "_event_document__793e3422-c74d-42ce-a556-aaa698735776",
-    "options": {},
-    "from": "51981471327",
-    "refSerialize": "dda64fe77e22dcb38af66d3b823a6519"
-  },
-  {
-    "ref": "7e0f9d18-a98a-45a7-8271-7a91437dd195",
-    "keyword": "dda64fe77e22dcb38af66d3b823a6519",
-    "answer": "_event_document__e098723d-86f9-4d5c-a52c-163fa60f505a",
-    "options": {},
-    "from": "51981471327",
-    "refSerialize": "83233c9d15626e7d61b41faf71c070a2"
-  },
-  {
-    "ref": "4e2edb5c-c807-4293-9aba-acbe40e12170",
-    "keyword": "83233c9d15626e7d61b41faf71c070a2",
-    "answer": "_event_document__3e1c7ca6-2bb9-47b8-b2c0-8491a2b9bf28",
-    "options": {},
-    "from": "51981471327",
-    "refSerialize": "3647d7508c3c17e8457b1d9dbc9f4797"
-  },
-  {
-    "ref": "ef078fe0-7219-47f5-8bd3-4e22bdc905de",
-    "keyword": "3647d7508c3c17e8457b1d9dbc9f4797",
-    "answer": "_event_document__cd3ff9b2-cdcf-4bfc-b84b-62861dd7804e",
-    "options": {},
-    "from": "51981471327",
-    "refSerialize": "5f640968aa7e13af37bcec355993e17d"
-  },
-  {
-    "ref": "e15580ce-193e-4599-a440-96f200cc8a90",
-    "keyword": "5f640968aa7e13af37bcec355993e17d",
-    "answer": "Pen",
-    "options": {},
-    "from": "51981471327",
-    "refSerialize": "9ecec56e48a0394ccc0b460a5f7350e7"
-  },
-  {
-    "ref": "ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f",
-    "keyword": "key_f400752f-2cd9-4e89-b42d-233b5d8ddd98",
-    "answer": "¡Hola! 😊 Soy tu asistente virtual.",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "2dce7ad8da8cf4ca7ba1ae567c0368b3",
-    "from": "51981471327"
-  },
-  {
-    "ref": "ans_15bec6fd-4292-4581-ad28-427d67e09102",
-    "keyword": "ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f",
-    "answer": "✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n\r\n1️⃣ *Tramite Documentario*\r\n\r\nPor favor, responde con el número de la opción que deseas explorar. 😊",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [
-        {
-          "ref": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
-          "keyword": "1",
-          "options": {
-            "sensitive": true,
-            "regex": false
-          },
-          "refSerialize": "065e0005da6e5c278a53691e53b48955"
-        },
-        {
-          "ref": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "keyword": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
-          "answer": "Has seleccionado la opción 1: Trámite Documentario.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "ae8d48e65afc27fa2d68e7b812669d98"
-        },
-        {
-          "ref": "ans_e3319209-ee68-40a3-8494-7798069701b7",
-          "keyword": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "answer": "Las oficinas que trabajan con trámite documentario son:\r\n\r\n1️⃣ Formación Continua  \r\n2️⃣ Centro de Idiomas  \r\n3️⃣ Carreras Profesionales  \r\n\r\nPor favor, responde con el número de la oficina que deseas consultar. 😊",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": true,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
-                "keyword": "3",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
-              },
-              {
-                "ref": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "keyword": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
-                "answer": "Has seleccionado Carreras Profesionales.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "dbc914aa8369e4ffe30693d27729cef2"
-              },
-              {
-                "ref": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "keyword": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "answer": "AQUI VA E PDF DE CARRERAS",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "bd35adab5fb668762b2b6b1a608fc88f"
-              },
-              {
-                "ref": "ans_392b6d85-4f25-4455-b712-f214d39941e0",
-                "keyword": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "b7b288ec87e538dae9eb65c20628a634"
-              },
-              {
-                "ref": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
-                "keyword": "1",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "065e0005da6e5c278a53691e53b48955"
-              },
-              {
-                "ref": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "keyword": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
-                "answer": "Has seleccionado Formación Continua.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "17c86a3cdfa121fc35d1ec2361095d6c"
-              },
-              {
-                "ref": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "keyword": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "answer": "AQUI VA E PDF DE FC",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "697eb47f650e52c07c7504199d8aa00a"
-              },
-              {
-                "ref": "ans_5a0ea49a-6d3f-47ce-af1b-26b4d97c814e",
-                "keyword": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "3218e25fa2905f2c131b0c3b60d8d720"
-              },
-              {
-                "ref": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-                "keyword": "2",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
-              },
-              {
-                "ref": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "keyword": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-                "answer": "Has seleccionado Centro de Idiomas.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "a0367fadd5f00eac0f5045ff4aa6f87c"
-              },
-              {
-                "ref": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "keyword": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "answer": "AQUI VA E PDF DE IDIOMAS",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "40a0dfcb01f57678fe9d9ea579e7a342"
-              },
-              {
-                "ref": "ans_75fb2d28-7ff5-4973-8b54-ce5ad4db26fc",
-                "keyword": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "833d9436db9fa8b1f47bc0ad83ca947f"
-              }
-            ],
-            "keyword": {},
-            "callback": true
-          },
-          "refSerialize": "b9784a58ee5b80acf693d114e1b9fac1"
-        }
-      ],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "21a6155b006026a6229748c14186bca3",
-    "from": "51981471327"
-  },
-  {
-    "ref": "ans_15bec6fd-4292-4581-ad28-427d67e09102",
-    "keyword": "ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f",
-    "answer": "✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n\r\n1️⃣ *Tramite Documentario*\r\n\r\nPor favor, responde con el número de la opción que deseas explorar. 😊",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [
-        {
-          "ref": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
-          "keyword": "1",
-          "options": {
-            "sensitive": true,
-            "regex": false
-          },
-          "refSerialize": "065e0005da6e5c278a53691e53b48955"
-        },
-        {
-          "ref": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "keyword": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
-          "answer": "Has seleccionado la opción 1: Trámite Documentario.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "ae8d48e65afc27fa2d68e7b812669d98"
-        },
-        {
-          "ref": "ans_e3319209-ee68-40a3-8494-7798069701b7",
-          "keyword": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "answer": "Las oficinas que trabajan con trámite documentario son:\r\n\r\n1️⃣ Formación Continua  \r\n2️⃣ Centro de Idiomas  \r\n3️⃣ Carreras Profesionales  \r\n\r\nPor favor, responde con el número de la oficina que deseas consultar. 😊",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": true,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
-                "keyword": "3",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
-              },
-              {
-                "ref": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "keyword": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
-                "answer": "Has seleccionado Carreras Profesionales.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "dbc914aa8369e4ffe30693d27729cef2"
-              },
-              {
-                "ref": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "keyword": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "answer": "AQUI VA E PDF DE CARRERAS",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "bd35adab5fb668762b2b6b1a608fc88f"
-              },
-              {
-                "ref": "ans_392b6d85-4f25-4455-b712-f214d39941e0",
-                "keyword": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "b7b288ec87e538dae9eb65c20628a634"
-              },
-              {
-                "ref": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
-                "keyword": "1",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "065e0005da6e5c278a53691e53b48955"
-              },
-              {
-                "ref": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "keyword": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
-                "answer": "Has seleccionado Formación Continua.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "17c86a3cdfa121fc35d1ec2361095d6c"
-              },
-              {
-                "ref": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "keyword": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "answer": "AQUI VA E PDF DE FC",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "697eb47f650e52c07c7504199d8aa00a"
-              },
-              {
-                "ref": "ans_5a0ea49a-6d3f-47ce-af1b-26b4d97c814e",
-                "keyword": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "3218e25fa2905f2c131b0c3b60d8d720"
-              },
-              {
-                "ref": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-                "keyword": "2",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
-              },
-              {
-                "ref": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "keyword": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-                "answer": "Has seleccionado Centro de Idiomas.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "a0367fadd5f00eac0f5045ff4aa6f87c"
-              },
-              {
-                "ref": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "keyword": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "answer": "AQUI VA E PDF DE IDIOMAS",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "40a0dfcb01f57678fe9d9ea579e7a342"
-              },
-              {
-                "ref": "ans_75fb2d28-7ff5-4973-8b54-ce5ad4db26fc",
-                "keyword": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "833d9436db9fa8b1f47bc0ad83ca947f"
-              }
-            ],
-            "keyword": {},
-            "callback": true
-          },
-          "refSerialize": "b9784a58ee5b80acf693d114e1b9fac1"
-        }
-      ],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "21a6155b006026a6229748c14186bca3",
-    "from": "51981471327"
-  },
-  {
-    "ref": "fd73a1e8-5e44-4fd5-b3f7-53bb8ed3238c",
-    "keyword": "21a6155b006026a6229748c14186bca3",
-    "answer": "Necesito hacer una busqueda",
-    "options": {},
-    "from": "51981471327",
-    "refSerialize": "d154a2944f5285a4fc2ef83773fa534d"
-  },
-  {
-    "ref": "277e61de-81dc-4728-9a38-5e9ad630dbe6",
-    "keyword": null,
-    "answer": "Esta no es una de las opciones. Por favor, elige una opción válida:",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "51981471327",
-    "refSerialize": "7b58b9a8467471fa9ece4c251f4fa7be"
-  },
-  {
-    "ref": "23bf9b6f-78ce-41be-8b79-2939dbf7c74d",
-    "keyword": null,
-    "answer": "✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n\r\n1️⃣ *Tramite Documentario*\r\n\r\nPor favor, responde con el número de la opción que deseas explorar. 😊",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "51981471327",
-    "refSerialize": "640e94d71b8cfbc179029349a52b7d1a"
-  },
-  {
-    "ref": "0d369997-c8b5-4833-9b84-b0afe3102c75",
-    "keyword": "d154a2944f5285a4fc2ef83773fa534d",
-    "answer": "1",
-    "options": {},
-    "from": "51981471327",
-    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
-  },
-  {
-    "ref": "ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f",
-    "keyword": "key_f400752f-2cd9-4e89-b42d-233b5d8ddd98",
-    "answer": "¡Hola! 😊 Soy tu asistente virtual.",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "2dce7ad8da8cf4ca7ba1ae567c0368b3",
-    "from": "51981471327"
-  },
-  {
-    "ref": "ans_15bec6fd-4292-4581-ad28-427d67e09102",
-    "keyword": "ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f",
-    "answer": "✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n\r\n1️⃣ *Tramite Documentario*\r\n\r\nPor favor, responde con el número de la opción que deseas explorar. 😊",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [
-        {
-          "ref": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
-          "keyword": "1",
-          "options": {
-            "sensitive": true,
-            "regex": false
-          },
-          "refSerialize": "065e0005da6e5c278a53691e53b48955"
-        },
-        {
-          "ref": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "keyword": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
-          "answer": "Has seleccionado la opción 1: Trámite Documentario.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "ae8d48e65afc27fa2d68e7b812669d98"
-        },
-        {
-          "ref": "ans_e3319209-ee68-40a3-8494-7798069701b7",
-          "keyword": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "answer": "Las oficinas que trabajan con trámite documentario son:\r\n\r\n1️⃣ Formación Continua  \r\n2️⃣ Centro de Idiomas  \r\n3️⃣ Carreras Profesionales  \r\n\r\nPor favor, responde con el número de la oficina que deseas consultar. 😊",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": true,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
-                "keyword": "3",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
-              },
-              {
-                "ref": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "keyword": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
-                "answer": "Has seleccionado Carreras Profesionales.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "dbc914aa8369e4ffe30693d27729cef2"
-              },
-              {
-                "ref": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "keyword": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "answer": "AQUI VA E PDF DE CARRERAS",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "bd35adab5fb668762b2b6b1a608fc88f"
-              },
-              {
-                "ref": "ans_392b6d85-4f25-4455-b712-f214d39941e0",
-                "keyword": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "b7b288ec87e538dae9eb65c20628a634"
-              },
-              {
-                "ref": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
-                "keyword": "1",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "065e0005da6e5c278a53691e53b48955"
-              },
-              {
-                "ref": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "keyword": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
-                "answer": "Has seleccionado Formación Continua.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "17c86a3cdfa121fc35d1ec2361095d6c"
-              },
-              {
-                "ref": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "keyword": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "answer": "AQUI VA E PDF DE FC",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "697eb47f650e52c07c7504199d8aa00a"
-              },
-              {
-                "ref": "ans_5a0ea49a-6d3f-47ce-af1b-26b4d97c814e",
-                "keyword": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "3218e25fa2905f2c131b0c3b60d8d720"
-              },
-              {
-                "ref": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-                "keyword": "2",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
-              },
-              {
-                "ref": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "keyword": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-                "answer": "Has seleccionado Centro de Idiomas.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "a0367fadd5f00eac0f5045ff4aa6f87c"
-              },
-              {
-                "ref": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "keyword": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "answer": "AQUI VA E PDF DE IDIOMAS",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "40a0dfcb01f57678fe9d9ea579e7a342"
-              },
-              {
-                "ref": "ans_75fb2d28-7ff5-4973-8b54-ce5ad4db26fc",
-                "keyword": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "833d9436db9fa8b1f47bc0ad83ca947f"
-              }
-            ],
-            "keyword": {},
-            "callback": true
-          },
-          "refSerialize": "b9784a58ee5b80acf693d114e1b9fac1"
-        }
-      ],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "21a6155b006026a6229748c14186bca3",
-    "from": "51981471327"
-  },
-  {
-    "ref": "ans_15bec6fd-4292-4581-ad28-427d67e09102",
-    "keyword": "ans_a1cb6d4a-80fe-47d5-b70e-27d288923c4f",
-    "answer": "✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n\r\n1️⃣ *Tramite Documentario*\r\n\r\nPor favor, responde con el número de la opción que deseas explorar. 😊",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [
-        {
-          "ref": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
-          "keyword": "1",
-          "options": {
-            "sensitive": true,
-            "regex": false
-          },
-          "refSerialize": "065e0005da6e5c278a53691e53b48955"
-        },
-        {
-          "ref": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "keyword": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
-          "answer": "Has seleccionado la opción 1: Trámite Documentario.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "ae8d48e65afc27fa2d68e7b812669d98"
-        },
-        {
-          "ref": "ans_e3319209-ee68-40a3-8494-7798069701b7",
-          "keyword": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-          "answer": "Las oficinas que trabajan con trámite documentario son:\r\n\r\n1️⃣ Formación Continua  \r\n2️⃣ Centro de Idiomas  \r\n3️⃣ Carreras Profesionales  \r\n\r\nPor favor, responde con el número de la oficina que deseas consultar. 😊",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": true,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
-                "keyword": "3",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
-              },
-              {
-                "ref": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "keyword": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
-                "answer": "Has seleccionado Carreras Profesionales.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "dbc914aa8369e4ffe30693d27729cef2"
-              },
-              {
-                "ref": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "keyword": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-                "answer": "AQUI VA E PDF DE CARRERAS",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "bd35adab5fb668762b2b6b1a608fc88f"
-              },
-              {
-                "ref": "ans_392b6d85-4f25-4455-b712-f214d39941e0",
-                "keyword": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "b7b288ec87e538dae9eb65c20628a634"
-              },
-              {
-                "ref": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
-                "keyword": "1",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "065e0005da6e5c278a53691e53b48955"
-              },
-              {
-                "ref": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "keyword": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
-                "answer": "Has seleccionado Formación Continua.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "17c86a3cdfa121fc35d1ec2361095d6c"
-              },
-              {
-                "ref": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "keyword": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-                "answer": "AQUI VA E PDF DE FC",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "697eb47f650e52c07c7504199d8aa00a"
-              },
-              {
-                "ref": "ans_5a0ea49a-6d3f-47ce-af1b-26b4d97c814e",
-                "keyword": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "3218e25fa2905f2c131b0c3b60d8d720"
-              },
-              {
-                "ref": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-                "keyword": "2",
-                "options": {
-                  "sensitive": true,
-                  "regex": false
-                },
-                "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
-              },
-              {
-                "ref": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "keyword": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-                "answer": "Has seleccionado Centro de Idiomas.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "a0367fadd5f00eac0f5045ff4aa6f87c"
-              },
-              {
-                "ref": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "keyword": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-                "answer": "AQUI VA E PDF DE IDIOMAS",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "40a0dfcb01f57678fe9d9ea579e7a342"
-              },
-              {
-                "ref": "ans_75fb2d28-7ff5-4973-8b54-ce5ad4db26fc",
-                "keyword": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-                "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "833d9436db9fa8b1f47bc0ad83ca947f"
-              }
-            ],
-            "keyword": {},
-            "callback": true
-          },
-          "refSerialize": "b9784a58ee5b80acf693d114e1b9fac1"
-        }
-      ],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "21a6155b006026a6229748c14186bca3",
-    "from": "51981471327"
-  },
-  {
-    "ref": "550bdf5d-8ce7-43e1-94fd-1624af8b6543",
-    "keyword": "21a6155b006026a6229748c14186bca3",
-    "answer": "1",
-    "options": {},
-    "from": "51981471327",
-    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
-  },
-  {
-    "ref": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-    "keyword": "key_fa937590-66ba-44ce-b47a-e0d501d220f7",
-    "answer": "Has seleccionado la opción 1: Trámite Documentario.",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "ae8d48e65afc27fa2d68e7b812669d98",
-    "from": "51981471327"
-  },
-  {
-    "ref": "ans_e3319209-ee68-40a3-8494-7798069701b7",
-    "keyword": "ans_617f6aea-5f6b-4f54-80a0-f2961f778dd8",
-    "answer": "Las oficinas que trabajan con trámite documentario son:\r\n\r\n1️⃣ Formación Continua  \r\n2️⃣ Centro de Idiomas  \r\n3️⃣ Carreras Profesionales  \r\n\r\nPor favor, responde con el número de la oficina que deseas consultar. 😊",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [
-        {
-          "ref": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
-          "keyword": "3",
-          "options": {
-            "sensitive": true,
-            "regex": false
-          },
-          "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
-        },
-        {
-          "ref": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-          "keyword": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
-          "answer": "Has seleccionado Carreras Profesionales.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "dbc914aa8369e4ffe30693d27729cef2"
-        },
-        {
-          "ref": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-          "keyword": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-          "answer": "AQUI VA E PDF DE CARRERAS",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "bd35adab5fb668762b2b6b1a608fc88f"
-        },
-        {
-          "ref": "ans_392b6d85-4f25-4455-b712-f214d39941e0",
-          "keyword": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-          "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "b7b288ec87e538dae9eb65c20628a634"
-        },
-        {
-          "ref": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
-          "keyword": "1",
-          "options": {
-            "sensitive": true,
-            "regex": false
-          },
-          "refSerialize": "065e0005da6e5c278a53691e53b48955"
-        },
-        {
-          "ref": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-          "keyword": "key_d3255d3a-651a-4390-87ae-c65335d4ed68",
-          "answer": "Has seleccionado Formación Continua.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "17c86a3cdfa121fc35d1ec2361095d6c"
-        },
-        {
-          "ref": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-          "keyword": "ans_cacfaabf-00a6-4b77-b8b0-ecef4e6c3a3c",
-          "answer": "AQUI VA E PDF DE FC",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "697eb47f650e52c07c7504199d8aa00a"
-        },
-        {
-          "ref": "ans_5a0ea49a-6d3f-47ce-af1b-26b4d97c814e",
-          "keyword": "ans_61107741-ec12-4527-be4a-2ceb49adb2ea",
-          "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "3218e25fa2905f2c131b0c3b60d8d720"
-        },
-        {
-          "ref": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-          "keyword": "2",
-          "options": {
-            "sensitive": true,
-            "regex": false
-          },
-          "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
-        },
-        {
-          "ref": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-          "keyword": "key_c48d8d5d-2fe3-47e3-ac8f-f2c982afe873",
-          "answer": "Has seleccionado Centro de Idiomas.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "a0367fadd5f00eac0f5045ff4aa6f87c"
-        },
-        {
-          "ref": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-          "keyword": "ans_bd4dbf62-100b-4bb5-8000-43ef301eeab9",
-          "answer": "AQUI VA E PDF DE IDIOMAS",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "40a0dfcb01f57678fe9d9ea579e7a342"
-        },
-        {
-          "ref": "ans_75fb2d28-7ff5-4973-8b54-ce5ad4db26fc",
-          "keyword": "ans_9e0f732c-5c75-4f95-8332-51fb9259d94b",
-          "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "833d9436db9fa8b1f47bc0ad83ca947f"
-        }
-      ],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "b9784a58ee5b80acf693d114e1b9fac1",
-    "from": "51981471327"
-  },
-  {
-    "ref": "c7547e33-f6b3-46c0-b5f4-a4b358e7bf63",
-    "keyword": "b9784a58ee5b80acf693d114e1b9fac1",
+    "ref": "152e6b45-55e6-4e05-b1e3-671a5beb8fc0",
+    "keyword": "c0f35c6535b8923a12206a0e0b498678",
     "answer": "3",
     "options": {},
     "from": "51981471327",
     "refSerialize": "7af65864494b12f0f7ef00589f4d3979"
   },
   {
-    "ref": "ans_b436d216-be72-493a-bdfc-94caa976c988",
-    "keyword": "key_549b30fd-3369-4f4e-b837-59083a930c0b",
+    "ref": "ans_2804f045-3ddf-4a0b-91a3-c14297357d8d",
+    "keyword": "key_3c66fbce-104c-441d-8055-808aa9a42a2a",
     "answer": "Has seleccionado Carreras Profesionales.",
     "options": {
       "media": null,
@@ -2808,12 +1348,12 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "dbc914aa8369e4ffe30693d27729cef2",
+    "refSerialize": "472839e61864bd4dd567ea5bfb052400",
     "from": "51981471327"
   },
   {
-    "ref": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
-    "keyword": "ans_b436d216-be72-493a-bdfc-94caa976c988",
+    "ref": "ans_985bafcb-7217-45f5-b96a-2e31c605025f",
+    "keyword": "ans_2804f045-3ddf-4a0b-91a3-c14297357d8d",
     "answer": "AQUI VA E PDF DE CARRERAS",
     "options": {
       "media": null,
@@ -2827,12 +1367,12 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "bd35adab5fb668762b2b6b1a608fc88f",
+    "refSerialize": "193e5f1eea29542316c5d38d0b9b2224",
     "from": "51981471327"
   },
   {
-    "ref": "ans_392b6d85-4f25-4455-b712-f214d39941e0",
-    "keyword": "ans_b2d85997-ad38-4824-8c04-9f5604c68557",
+    "ref": "ans_52c07e4a-d45a-4ae8-9bc1-f75e991e3259",
+    "keyword": "ans_985bafcb-7217-45f5-b96a-2e31c605025f",
     "answer": "📄 *Recuerda:*\n*Todo trámite interno se inicia con la presentación del formato \"Solicitud\" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*",
     "options": {
       "media": null,
@@ -2846,7 +1386,7 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "b7b288ec87e538dae9eb65c20628a634",
+    "refSerialize": "f5c021249c0308ffac7d9e6a575f84b9",
     "from": "51981471327"
   }
 ]
