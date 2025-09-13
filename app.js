@@ -28,7 +28,11 @@ try {
 //flujos de trámite documentario
 const flowContinua = addKeyword('1', { sensitive: true })
     .addAnswer('Has seleccionado Formación Continua.')
-    .addAnswer("AQUI VA E PDF DE FC")
+    .addAnswer("DA",
+            {
+                media:"https://www.upn.edu.pe/wp-content/uploads/2021/08/Formacion-Continua-1.pdf"
+            }
+    )
     .addAnswer(
     '📄 *Recuerda:*\n' +
     '*Todo trámite interno se inicia con la presentación del formato "Solicitud" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n' +
@@ -74,10 +78,13 @@ const flowPrincipal = addKeyword([EVENTS.WELCOME])
         }
     }, flowTramiteDocumentario)
 
-
+const flowString = addKeyword('hola').addAnswer('Este mensaje envia una imagen', {
+        media: './ARCHIVOS/FORMACION CONTINUA PRECIO.jpeg', 
+    })
 const main = async () => {
     const adapterDB = new JsonFileAdapter();
     const adapterFlow = createFlow([
+        flowString,
         flowPrincipal
     ]);
     const adapterProvider = createProvider(BaileysProvider);
