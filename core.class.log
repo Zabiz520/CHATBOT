@@ -2,10 +2,30 @@
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: '5D1969B67FCBBA9BF84632ABD303BD07',
+    id: '3F52FD1545587D5C67D7',
     participant: undefined
   },
-  messageTimestamp: 1756576442,
+  messageTimestamp: 1757996143,
+  pushName: 'Ahhh joako',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    ephemeralMessage: FutureProofMessage { message: [Message] }
+  },
+  body: '',
+  from: '51981471327'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51981471327@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACE83A35F17B2A6187E6D54F58A23126',
+    participant: undefined
+  },
+  messageTimestamp: 1757996159,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
@@ -25,8 +45,8 @@
   from: '51981471327'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_3434f50e-8f36-4d80-b279-b2a25acdfb4d',
-  keyword: 'key_8060fbc9-dd38-4a8d-80c0-a07f90ff695b',
+  ref: 'ans_5c414a1a-dc00-4de1-8ece-03b7ffa3c5df',
+  keyword: 'key_929cc1da-d340-4079-ad47-446aad560ac4',
   answer: '¡Hola! 😊 Soy tu asistente virtual.',
   options: {
     media: null,
@@ -40,11 +60,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '5937e952a44734d0e78e74e706063155'
+  refSerialize: '80c28f313f2e602ce94be2b74cadcf67'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_9c2060ec-a132-4026-ab38-f80a13956d50',
-  keyword: 'ans_3434f50e-8f36-4d80-b279-b2a25acdfb4d',
+  ref: 'ans_a054b125-41f1-4342-b545-761cec7f7835',
+  keyword: 'ans_5c414a1a-dc00-4de1-8ece-03b7ffa3c5df',
   answer: '✨ ¡Bienvenido! Por ahora tenemos las siguientes opciones para ti: ✨\r\n' +
     '\r\n' +
     '1️⃣ *Tramite Documentario*\r\n' +
@@ -62,16 +82,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '3bdfb18e640a807be75945b1c6015905'
+  refSerialize: 'a67624e44aa39fbe296928dd004eb8be'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: '351175D5DECC5D157651855B03C08D7E',
+    id: 'AC7A2C1E9FCEC954304FC492B21C3B7A',
     participant: undefined
   },
-  messageTimestamp: 1756576444,
+  messageTimestamp: 1757996159,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
@@ -94,114 +114,10 @@
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: 'C8EBD85EEB8EA669D062ECD2A89E6D10',
+    id: 'ACF8C4644F38E83DF869EA4A46147BC3',
     participant: undefined
   },
-  messageTimestamp: 1756576445,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Pene',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Pene',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: 'AAF1F811B221514EC57EB16DDA13DCEB',
-    participant: undefined
-  },
-  messageTimestamp: 1756576446,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage {
-      key: [MessageKey],
-      type: 4,
-      ephemeralExpiration: 86400,
-      ephemeralSettingTimestamp: [Long],
-      disappearingMode: [DisappearingMode]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '09021DB67D8615CEDC0F6DEE9DA16CCB',
-    participant: undefined
-  },
-  messageTimestamp: 1756576449,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Pene',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Pene',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '105898EC8ACB465C37212BA5BC9EB7B2',
-    participant: undefined
-  },
-  messageTimestamp: 1756576450,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage {
-      key: [MessageKey],
-      type: 4,
-      ephemeralExpiration: 86400,
-      ephemeralSettingTimestamp: [Long],
-      disappearingMode: [DisappearingMode]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '',
-  from: '51981471327'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '87702C38480497A1D509EFD030556392',
-    participant: undefined
-  },
-  messageTimestamp: 1756576458,
+  messageTimestamp: 1757996165,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
@@ -221,8 +137,8 @@
   from: '51981471327'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0',
-  keyword: 'key_30c278b2-89bb-4dcd-9c2d-e8a138fd4ff6',
+  ref: 'ans_27fa87b9-b5fa-40fa-b5bd-f704d4a304d6',
+  keyword: 'key_3a96cf92-d2b1-4ba7-8367-d7ff7e4e3660',
   answer: 'Has seleccionado la opción 1: Trámite Documentario.',
   options: {
     media: null,
@@ -236,11 +152,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'f51159b90589ef381f396e1131a76f34'
+  refSerialize: 'f255e1c100fc2890eea2587dbd0dda6a'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4edb972d-13fe-40ee-9bfb-4dec26b1d855',
-  keyword: 'ans_51f06ad4-e8f6-4d82-9351-edb2fab4f4c0',
+  ref: 'ans_d55bb0c5-1dad-4d5c-a5ca-f79a93352fdb',
+  keyword: 'ans_27fa87b9-b5fa-40fa-b5bd-f704d4a304d6',
   answer: 'Las oficinas que trabajan con trámite documentario son:\r\n' +
     '\r\n' +
     '1️⃣ Formación Continua  \r\n' +
@@ -267,16 +183,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'c0f35c6535b8923a12206a0e0b498678'
+  refSerialize: '765ad84203fefc72e1cd312679b1a876'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: 'B7CF7DA5AEB746357964D0C2104DF5DB',
+    id: 'ACA8E204DA13942467CDD7DCF4DBE838',
     participant: undefined
   },
-  messageTimestamp: 1756576459,
+  messageTimestamp: 1757996166,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
@@ -299,15 +215,35 @@
   key: {
     remoteJid: '51981471327@s.whatsapp.net',
     fromMe: false,
-    id: '2756C15921A96C6B7FC6018B013978E1',
+    id: '3F70B93E6331CB68E7AA',
     participant: undefined
   },
-  messageTimestamp: 1756576495,
+  messageTimestamp: 1757996170,
+  pushName: 'Ahhh joako',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    ephemeralMessage: FutureProofMessage { message: [Message] }
+  },
+  body: '',
+  from: '51981471327'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51981471327@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC4F091F4F8EFEEBE42AF32884AD65D8',
+    participant: undefined
+  },
+  messageTimestamp: 1757996176,
   pushName: 'Ahhh joako',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: '3',
+      text: '2',
       previewType: 0,
       contextInfo: [ContextInfo],
       inviteLinkGroupTypeV2: 0
@@ -318,13 +254,13 @@
       messageSecret: [Uint8Array]
     }
   },
-  body: '3',
+  body: '2',
   from: '51981471327'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_2804f045-3ddf-4a0b-91a3-c14297357d8d',
-  keyword: 'key_3c66fbce-104c-441d-8055-808aa9a42a2a',
-  answer: 'Has seleccionado Carreras Profesionales.',
+  ref: 'ans_f1d446a5-d793-46a6-84d9-b24528f294e1',
+  keyword: 'key_ec616cd1-81c4-4b1d-ba14-d07fb9a62c7a',
+  answer: 'Has seleccionado Centro de Idiomas.',
   options: {
     media: null,
     buttons: [],
@@ -337,12 +273,12 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '472839e61864bd4dd567ea5bfb052400'
+  refSerialize: 'a2c7ec9f9f15bf13f29b1f4380021504'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_985bafcb-7217-45f5-b96a-2e31c605025f',
-  keyword: 'ans_2804f045-3ddf-4a0b-91a3-c14297357d8d',
-  answer: 'AQUI VA E PDF DE CARRERAS',
+  ref: 'ans_7d6121f0-6a28-486d-b363-448c1ecd3996',
+  keyword: 'ans_f1d446a5-d793-46a6-84d9-b24528f294e1',
+  answer: 'AQUI VA E PDF DE IDIOMAS',
   options: {
     media: null,
     buttons: [],
@@ -355,37 +291,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '193e5f1eea29542316c5d38d0b9b2224'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51981471327@s.whatsapp.net',
-    fromMe: false,
-    id: '334274FA838330EC633A71C18496C51A',
-    participant: undefined
-  },
-  messageTimestamp: 1756576496,
-  pushName: 'Ahhh joako',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage {
-      key: [MessageKey],
-      type: 4,
-      ephemeralExpiration: 86400,
-      ephemeralSettingTimestamp: [Long],
-      disappearingMode: [DisappearingMode]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '',
-  from: '51981471327'
+  refSerialize: '6b3fc71d9ffeb741389bd28abd53b145'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_52c07e4a-d45a-4ae8-9bc1-f75e991e3259',
-  keyword: 'ans_985bafcb-7217-45f5-b96a-2e31c605025f',
+  ref: 'ans_dddd3941-3b3d-40e9-911d-c3ff72f85e85',
+  keyword: 'ans_7d6121f0-6a28-486d-b363-448c1ecd3996',
   answer: '📄 *Recuerda:*\n' +
     '*Todo trámite interno se inicia con la presentación del formato "Solicitud" debidamente llenada, la misma que será atendida en 4 días hábiles.*\n' +
     '*Así mismo para su atención, el alumno no deberá tener deudas ni cursos pendientes / desaprobados.*',
@@ -401,5 +311,31 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'f5c021249c0308ffac7d9e6a575f84b9'
+  refSerialize: 'aae75904a4af5b708894c3350b051201'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51981471327@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC32EDD6753B4BED8E9395FE386A04C4',
+    participant: undefined
+  },
+  messageTimestamp: 1757996177,
+  pushName: 'Ahhh joako',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '51981471327'
 }
